@@ -12,38 +12,44 @@ import org.jsoup.select.Elements;
 import service.CDConnect;
 import service.CDEnum;
 
+
 public class CarBrand {
+
+    // Fields
     
-    private CDConnect connectToCarDekho;
     private final String extractBrandApiEndpoint = CDEnum.CAR_DEKHO_EXTRACT_BRAND_URL.getValue();
+    private final Logger logger = Logger.getLogger(CarBrand.class.getName());
+
+    private CDConnect connectToCarDekho;
     private String carBrandFile;
     
-    private final Logger logger = Logger.getLogger(CarBrand.class.getName());
-    
-    public CarBrand(String carBrandFile) {
-        connectToCarDekho = new CDConnect();
+    // Constructor
+
+    public CarBrand(String carBrandFile, CDConnect connectToCarDekho) {
+        this.connectToCarDekho = connectToCarDekho;
         this.carBrandFile = carBrandFile;
     }
+
+    // Methods
     
-    public void extractCarBrandApiEndPoint() throws IOException 
-    {
+    public void extractCarBrandApiEndPoint() throws IOException {
+        
         Document htmlDocument = connectToCarDekho.getHtmlDocument(extractBrandApiEndpoint);
-        
-        Elements brandNameElements =  htmlDocument.select("#brands > div > div.contentHold > div.gsc-ta-content.gsc-ta-active > ul > li");
+
+        Elements brandNameElements =
+                htmlDocument.select("#brands > div > div.contentHold > div.gsc-ta-content.gsc-ta-active > ul > li");
         logger.info("extracting Brand");
-        
-        try (BufferedWriter writer = new BufferedWriter(new FileWriter(carBrandFile)))
-        {
-            for(Element brand: brandNameElements) 
-            {
+
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter(carBrandFile))) {
+            for (Element brand : brandNameElements) {
                 String brandEndPoint = brand.getElementsByTag("a").attr("href");
                 writer.write(brandEndPoint + "\n");
             }
         } catch (Exception e) {
             logger.info("Error: " + e.getMessage());
         }
-        
-        logger.info("File written successfully at "+ carBrandFile);
+
+        logger.info("File written successfully at " + carBrandFile);
     }
-    
+
 }

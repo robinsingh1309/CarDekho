@@ -8,7 +8,7 @@ repositories {
 }
 
 dependencies {
-    implementation group: 'org.jsoup', name: 'jsoup', version: '1.7.2'
+    implementation group: 'org.jsoup', name: 'jsoup', version: '1.17.2'
 }
 
 application {

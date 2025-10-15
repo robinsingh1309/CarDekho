@@ -2,7 +2,9 @@ package service;
 
 public enum CDEnum {
 
-    CAR_DEKHO_EXTRACT_BRAND_URL("https://www.cardekho.com/newcars");
+    CAR_DEKHO_EXTRACT_BRAND_URL("https://www.cardekho.com/newcars"),
+    CAR_DEKHO_URL("https://www.cardekho.com");
+    
 
     // Fields
 
