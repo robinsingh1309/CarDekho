@@ -1,0 +1,17 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation group: 'org.jsoup', name: 'jsoup', version: '1.7.2'
+}
+
+application {
+  
+    mainClass = 'org.example.App'
+}
