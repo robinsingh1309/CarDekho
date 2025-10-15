@@ -2,20 +2,17 @@ package service;
 
 public enum CDEnum {
 
-    CAR_DEKHO_NEW_CARS_URL("https://www.cardekho.com/maruti-suzuki-cars");
-
+    CAR_DEKHO_EXTRACT_BRAND_URL("https://www.cardekho.com/newcars");
 
     // Fields
 
     private String url;
-
 
     // Constructor
 
     private CDEnum(String url) {
         this.url = url;
     }
-
 
     // Getter
 

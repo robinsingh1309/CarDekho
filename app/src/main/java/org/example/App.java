@@ -3,22 +3,17 @@ package org.example;
 
 import java.io.IOException;
 
-import org.jsoup.nodes.Document;
-
-import service.CDConnect;
-import service.CDEnum;
+import extract.CarBrand;
 
 public class App {
 
     public static void main(String[] args) throws IOException {
         
-        CDConnect connectToCarDekho = new CDConnect();
+        final String carBrandFile = "/home/robin/eclipse-workspace/CarDekho/app/csv/car_brand_file.csv";
         
-        final String carDekhoUrl = CDEnum.CAR_DEKHO_NEW_CARS_URL.getValue();
+        CarBrand carBrand = new CarBrand(carBrandFile);
+        carBrand.extractCarBrandApiEndPoint();
         
-        Document htmlDocument = connectToCarDekho.getHtmlDocument(carDekhoUrl);
-        
-        System.out.println(htmlDocument);
     }
     
 }
