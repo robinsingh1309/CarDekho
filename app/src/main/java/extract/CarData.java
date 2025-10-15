@@ -30,42 +30,6 @@ public class CarData {
         this.dataFilePath = dataFilePath;
     }
 
-
-    public void testExtractVehicleDataByBrand() throws IOException {
-
-        String apiUrl = CDEnum.CAR_DEKHO_URL.getValue() + "/cars/MG";
-        String[] urlParts = apiUrl.split("/");
-        String vehicelBrand = urlParts[urlParts.length - 1];
-        
-        logger.info("Reading the URL: " + apiUrl);
-
-        Document brandHtmlDocument = connectToCarDekho.getHtmlDocument(apiUrl);
-        if (brandHtmlDocument == null) {
-            logger.info("No HTML document received from the server...");
-            return;
-        }
-
-        // this will select the li where the data is stored
-        Elements dataElements = brandHtmlDocument.select(
-                "#rf01 > div.app-content > div > main > div > div.gsc_col-md-8.gsc_col-lg-9.gsc_col-sm-12.gsc_col-xs-12.BrandDesc > section.gsc_row.gsc_container_hold.heading.BrandPagelist.marginTop20 > ul > li");
-
-        for (Element ele : dataElements) {
-            
-            String vehicleName = ele.select(".gsc_col-sm-12.gsc_col-xs-12.gsc_col-md-8.listView.holder.posS a h3").text();
-            String vehiclePrice = ele.select(".gsc_col-sm-12.gsc_col-xs-12.gsc_col-md-8.listView.holder.posS .price").text();
-            String vehicleType = ele.select(".clearfix > div:nth-child(1) > span:nth-child(1)").text();
-            String vehicleCC = ele.select(".clearfix > div:nth-child(2) > span:nth-child(1)").text();
-
-            System.out.println(
-                                "Name: " + vehicleName + 
-                                " | price: " + vehiclePrice +
-                                " | type: " + vehicleType + 
-                                " | CC: " + vehicleCC + 
-                                " | Brand: " + vehicelBrand
-                              );
-        }
-    }
-
     public void extractVehicleDataByBrand(String readCarBrandFile) {
 
         try 

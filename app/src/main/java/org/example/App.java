@@ -15,8 +15,8 @@ public class App {
         
         final String carBrandFile = "/home/robin/eclipse-workspace/CarDekho/app/csv/car_brand_file.csv";
 //        
-//        CarBrand carBrand = new CarBrand(carBrandFile, connectToCarDekho);
-//        carBrand.extractCarBrandApiEndPoint();
+        CarBrand carBrand = new CarBrand(carBrandFile, connectToCarDekho);
+        carBrand.extractCarBrandApiEndPoint();
         
         final String dataFile = "/home/robin/eclipse-workspace/CarDekho/app/csv/data/car_data.csv";
         CarData carData = new CarData(connectToCarDekho, dataFile);
