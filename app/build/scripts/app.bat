@@ -70,7 +70,7 @@ goto fail
 :execute
 @rem Setup the command line
 
-set CLASSPATH=%APP_HOME%\lib\app.jar;%APP_HOME%\lib\jsoup-1.17.2.jar
+set CLASSPATH=%APP_HOME%\lib\app.jar;%APP_HOME%\lib\jsoup-1.17.2.jar;%APP_HOME%\lib\json-20231013.jar
 
 
 @rem Execute app

@@ -4,7 +4,6 @@ import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
 import java.io.FileWriter;
-import java.io.IOException;
 import java.util.logging.Logger;
 
 import org.jsoup.nodes.Document;
@@ -15,24 +14,25 @@ import service.CDConnect;
 import service.CDEnum;
 
 
-public class CarData {
+public class ElectricCarData {
 
     // Fields
-    private final Logger logger = Logger.getLogger(CarData.class.getName());
+    private final Logger logger = Logger.getLogger(ElectricCarData.class.getName());
 
     private CDConnect connectToCarDekho;
     private String dataFilePath;
 
 
     // Constructor
-    public CarData(CDConnect connectToCarDekho, String dataFilePath) {
+    public ElectricCarData(CDConnect connectToCarDekho, String dataFilePath) {
         this.connectToCarDekho = connectToCarDekho;
         this.dataFilePath = dataFilePath;
     }
 
-    public void extractVehicleDataByBrand(String readCarBrandFile) {
 
-        try (BufferedReader reader = new BufferedReader(new FileReader(readCarBrandFile));
+    public void extractVehicleDataByBrand(String readElectricCarBrandFile) {
+
+        try (BufferedReader reader = new BufferedReader(new FileReader(readElectricCarBrandFile));
                 BufferedWriter writer = new BufferedWriter(new FileWriter(dataFilePath))
 
         ) {
@@ -59,45 +59,36 @@ public class CarData {
                 }
 
 
-                Elements dataElements =
-                        brandHtmlDocument.select("ul > li.gsc_col-xs-12.gsc_col-sm-6.gsc_col-md-12.gsc_col-lg-12");
-                logger.info("dataElements found: " + dataElements.size());
-
+                Elements dataElements = brandHtmlDocument.select(".append_list section.card.card_new");
+                logger.info("dataElements size: " + dataElements.size());
 
                 for (Element ele : dataElements) {
+                    
+                    String vehicleName = ele.select("h3 a").text(); 
+                    String vehiclePrice = ele.select(".price span").text(); 
+                    String vehicleType = "Electric"; 
 
-                    String vehicleName = cleanText(ele.select("h3").text());
-                    String vehiclePrice = cleanText(ele.select(".price").text());
-
-                    // Handle missing .dotlist gracefully
-                    Elements dotLists = ele.select(".dotlist");
-
-                    String vehicleType = "";
-                    String vehicleCC = "";
-
-                    if (dotLists.size() > 0) {
-                        Element firstDotList = dotLists.get(0);
-                        vehicleType = cleanText(firstDotList.select("span:nth-of-type(1)").text());
+                   
+                    Elements specs = ele.select(".dotlist span");
+                    String vehicleKwh = "";
+                    for (Element spec : specs) {
+                        if (spec.text().toLowerCase().contains("kwh")) {
+                            vehicleKwh = spec.text();
+                            break;
+                        }
                     }
 
-                    if (dotLists.size() > 1) {
-                        Element lastDotList = dotLists.get(dotLists.size() - 1);
-                        vehicleCC = cleanText(lastDotList.select("span:nth-of-type(1)").text());
-                    }
-
-                    // Escape fields for CSV
                     String cleanedVehicleName = escapeCsvField(vehicleName);
                     String cleanedVehiclePrice = escapeCsvField(vehiclePrice);
                     String cleanedVehicleType = escapeCsvField(vehicleType);
-                    String cleanedVehicleCC = escapeCsvField(vehicleCC);
+                    String cleanedVehicleKwh = escapeCsvField(vehicleKwh);
 
-                    // Write data in one clean CSV line
-                    writer.write(
-                            String.join(",", cleanedVehicleName, cleanedVehiclePrice, cleanedVehicleType,cleanedVehicleCC, escapeCsvField(cleanedVehicelBrand))
-                            );
+                    writer.write(cleanedVehicleName + "," + cleanedVehiclePrice + "," + cleanedVehicleType + ","
+                            + cleanedVehicleKwh + "," + cleanedVehicelBrand);
                     
                     writer.newLine();
                 }
+
 
                 logger.info("Data extracted successfully for the API endPoint: " + line);
 
@@ -111,14 +102,6 @@ public class CarData {
         logger.info("Data extracted successfully...");
     }
 
-    private String cleanText(String text) {
-
-        if (text == null)
-            return "";
-
-        // Remove newlines, carriage returns, and multiple spaces
-        return text.replaceAll("[\\r\\n]+", " ").replaceAll("\\s{2,}", " ").trim();
-    }
 
     private String escapeCsvField(String field) {
 

@@ -22,4 +22,19 @@ public class CDConnect {
 		return htmlResponse;
 	}
 	
+	
+	public String getJson(String webUrl) throws IOException 
+    {
+        Response jsonResponse = Jsoup.connect(webUrl)
+                                .userAgent("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36")
+                                .referrer("https://www.cardekho.com/upcomingcars")
+                                .header("accept", "application/json, text/plain, */*")
+                                .timeout(10000)
+                                .method(Connection.Method.GET)
+                                .ignoreContentType(true)
+                                .execute();
+        
+        return jsonResponse.body();
+    }
+	
 }
