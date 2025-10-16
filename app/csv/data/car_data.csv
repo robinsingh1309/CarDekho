@@ -5,8 +5,8 @@ Maruti Suzuki Ertiga,Rs.8.80 - 12.94 Lakh* (View On Road Price),Petrol/CNG,1462 
 ,,,,maruti-suzuki-cars
 Maruti Suzuki Baleno,Rs.5.99 - 9.10 Lakh* (View On Road Price),Petrol/CNG,1197 cc,maruti-suzuki-cars
 Maruti Suzuki Dzire,Rs.6.26 - 9.31 Lakh* (View On Road Price),Petrol/CNG,1197 cc,maruti-suzuki-cars
-Maruti Suzuki Wagon R,Rs.4.99 - 6.95 Lakh* (View On Road Price),Petrol/CNG,1197 cc,maruti-suzuki-cars
 Maruti Suzuki Brezza,Rs.8.26 - 13.01 Lakh* (View On Road Price),Petrol/CNG,1462 cc,maruti-suzuki-cars
+Maruti Suzuki Wagon R,Rs.4.99 - 6.95 Lakh* (View On Road Price),Petrol/CNG,1197 cc,maruti-suzuki-cars
 Maruti Suzuki Alto K10,Rs.3.70 - 5.45 Lakh* (View On Road Price),Petrol/CNG,998 cc,maruti-suzuki-cars
 Maruti Suzuki Grand Vitara,Rs.10.77 - 19.72 Lakh* (View On Road Price),Petrol/CNG,1490 cc,maruti-suzuki-cars
 Maruti Suzuki Victoris,Rs.10.50 - 19.99 Lakh* (View On Road Price),Petrol/CNG,1490 cc,maruti-suzuki-cars
@@ -40,7 +40,7 @@ Tata Curvv EV,Rs.17.49 - 22.24 Lakh* (View On Road Price),Electric,165 bhp,Tata
 Tata Tiago NRG,Rs.6.68 - 8.10 Lakh* (View On Road Price),Petrol/CNG,1199 cc,Tata
 Tata Tigor EV,Rs.12.49 - 13.75 Lakh* (View On Road Price),Electric,73.75 bhp,Tata
 Tata Yodha Pickup,Rs.6.95 - 7.50 Lakh* (View On Road Price),Diesel,2956 cc,Tata
-Kia Sonet,Rs.7.30 - 14.09 Lakh* (View On Road Price),Diesel/Petrol,1493 cc,Kia
+Kia Sonet,Rs.7.30 - 14 Lakh* (View On Road Price),Diesel/Petrol,1493 cc,Kia
 Kia Seltos,Rs.10.79 - 19.81 Lakh* (View On Road Price),Diesel/Petrol,1497 cc,Kia
 Kia Carens,Rs.10.99 - 12.77 Lakh* (View On Road Price),Diesel/Petrol,1497 cc,Kia
 ,,,,Kia
@@ -151,8 +151,8 @@ Audi Q5,Rs.64.74 - 69.86 Lakh* (View On Road Price),13.47 kmpl,1984 cc,Audi
 Audi Q8,Rs.1.10 Cr* (View On Road Price),10 kmpl,2995 cc,Audi
 Audi Q3 Sportback,Rs.52.98 - 53.55 Lakh* (View On Road Price),10.14 kmpl,1984 cc,Audi
 Audi RS e-tron GT,Rs.1.95 Cr* (View On Road Price),481 km,636.98 bhp,Audi
-Audi RS Q8,Rs.2.32 Cr* (View On Road Price),9 kmpl,3998 cc,Audi
 Audi Q8 e-tron,Rs.1.15 - 1.27 Cr* (View On Road Price),582 km,402.3 bhp,Audi
+Audi RS Q8,Rs.2.32 Cr* (View On Road Price),9 kmpl,3998 cc,Audi
 Audi e-tron GT,Rs.1.72 Cr* (View On Road Price),500 km,522.99 bhp,Audi
 Audi Q8 Sportback e-tron,Rs.1.19 - 1.32 Cr* (View On Road Price),600 km,402.3 bhp,Audi
 Audi S5 Sportback,Rs.73.57 - 80.50 Lakh* (View On Road Price),10.6 kmpl,2994 cc,Audi
@@ -162,20 +162,20 @@ Bentley Continental,Rs.5.23 - 8.45 Cr* (View On Road Price),12.9 kmpl,5993 cc,Be
 Bentley Bentayga,Rs.5 - 6.75 Cr* (View On Road Price),8.6 kmpl,3993 cc,Bentley
 ,,,,Bentley
 BMW M5,Rs.2.01 Cr* (View On Road Price),Petrol,4395 cc,bmw-cars
-BMW X7,Rs.1.25 - 1.29 Cr* (View On Road Price),Diesel/Petrol,2998 cc,bmw-cars
-BMW X3,Rs.71.20 - 73.10 Lakh* (View On Road Price),Diesel/Petrol,1998 cc,bmw-cars
-,,,,bmw-cars
-BMW X1,Rs.50.60 - 52.20 Lakh* (View On Road Price),Diesel/Petrol,1995 cc,bmw-cars
 BMW X5,Rs.93.70 Lakh - 1.05 Cr* (View On Road Price),Diesel/Petrol,2998 cc,bmw-cars
+BMW X7,Rs.1.25 - 1.29 Cr* (View On Road Price),Diesel/Petrol,2998 cc,bmw-cars
+,,,,bmw-cars
+BMW X3,Rs.71.20 - 73.10 Lakh* (View On Road Price),Diesel/Petrol,1998 cc,bmw-cars
+BMW X1,Rs.50.60 - 52.20 Lakh* (View On Road Price),Diesel/Petrol,1995 cc,bmw-cars
 BMW M2,Rs.1 Cr* (View On Road Price),Petrol,2993 cc,bmw-cars
-BMW Z4,Rs.87.90 - 92.60 Lakh* (View On Road Price),Petrol,2998 cc,bmw-cars
 BMW 5 Series,Rs.72.35 Lakh* (View On Road Price),Petrol,1998 cc,bmw-cars
 BMW 3 Series,Rs.72.85 - 73.95 Lakh* (View On Road Price),Petrol,2998 cc,bmw-cars
+BMW Z4,Rs.87.90 - 92.60 Lakh* (View On Road Price),Petrol,2998 cc,bmw-cars
 BMW M4 Competition,Rs.1.52 Cr* (View On Road Price),Petrol,2993 cc,bmw-cars
 BMW XM,Rs.2.55 Cr* (View On Road Price),Petrol,4395 cc,bmw-cars
 BMW iX1,Rs.49.90 Lakh* (View On Road Price),Electric,204 bhp,bmw-cars
-BMW 7 Series,Rs.1.79 - 1.82 Cr* (View On Road Price),Diesel/Petrol,2998 cc,bmw-cars
 BMW M8 Coupe Competition,Rs.2.38 Cr* (View On Road Price),Petrol,4395 cc,bmw-cars
+BMW 7 Series,Rs.1.79 - 1.82 Cr* (View On Road Price),Diesel/Petrol,2998 cc,bmw-cars
 BMW 2 Series Gran Coupe,Rs.45.30 - 47.20 Lakh* (View On Road Price),Petrol,1499 cc,bmw-cars
 BMW i7,Rs.2.05 - 2.58 Cr* (View On Road Price),Electric,650.39 bhp,bmw-cars
 BMW iX,Rs.1.40 Cr* (View On Road Price),Electric,516.29 bhp,bmw-cars
@@ -184,8 +184,8 @@ BMW i4,Rs.72.50 - 77.50 Lakh* (View On Road Price),Electric,335.25 bhp,bmw-cars
 BMW 3 Series Long Wheelbase,Rs.60.50 - 61.80 Lakh* (View On Road Price),Diesel/Petrol,1998 cc,bmw-cars
 BMW i5,Rs.1.20 Cr* (View On Road Price),Electric,592.73 bhp,bmw-cars
 BYD Atto 3,Rs.24.99 - 33.99 Lakh* (View On Road Price),521 km,201 bhp,BYD
-BYD Sealion 7,Rs.48.90 - 54.90 Lakh* (View On Road Price),567 km,523 bhp,BYD
 BYD Seal,Rs.41 - 53.15 Lakh* (View On Road Price),650 km,523 bhp,BYD
+BYD Sealion 7,Rs.48.90 - 54.90 Lakh* (View On Road Price),567 km,523 bhp,BYD
 ,,,,BYD
 BYD eMAX 7,Rs.26.90 - 29.90 Lakh* (View On Road Price),530 km,201 bhp,BYD
 Ferrari 296 GTB,Rs.5.40 Cr* (View On Road Price),15.62 kmpl,2992 cc,Ferrari
@@ -238,10 +238,10 @@ Maserati GranCabrio,Rs.2.46 - 2.69 Cr* (View On Road Price),Diesel/Petrol,4691 c
 Mclaren GT,Rs.4.50 Cr* (View On Road Price),5.1 kmpl,3994 cc,Mclaren
 Mclaren 750S,Rs.5.91 Cr* (View On Road Price),6.1 kmpl,3994 cc,Mclaren
 Mercedes-Benz C-Class,Rs.58.65 - 64.30 Lakh* (View On Road Price),Diesel/Petrol,1999 cc,Mercedes-Benz
-Mercedes-Benz GLS,Rs.1.32 - 1.42 Cr* (View On Road Price),Diesel/Petrol,2999 cc,Mercedes-Benz
+Mercedes-Benz S-Class,Rs.1.78 - 1.88 Cr* (View On Road Price),Diesel/Petrol,2999 cc,Mercedes-Benz
 Mercedes-Benz Maybach GLS,Rs.3.17 - 3.71 Cr* (View On Road Price),Petrol,3982 cc,Mercedes-Benz
 ,,,,Mercedes-Benz
-Mercedes-Benz S-Class,Rs.1.78 - 1.88 Cr* (View On Road Price),Diesel/Petrol,2999 cc,Mercedes-Benz
+Mercedes-Benz GLS,Rs.1.32 - 1.42 Cr* (View On Road Price),Diesel/Petrol,2999 cc,Mercedes-Benz
 Mercedes-Benz GLC,Rs.73.95 Lakh* (View On Road Price),Diesel/Petrol,1999 cc,Mercedes-Benz
 Mercedes-Benz GLE,Rs.96.15 Lakh - 1.12 Cr* (View On Road Price),Diesel/Petrol,2999 cc,Mercedes-Benz
 Mercedes-Benz E-Class,Rs.78.50 - 91.65 Lakh* (View On Road Price),Diesel/Petrol,2999 cc,Mercedes-Benz
