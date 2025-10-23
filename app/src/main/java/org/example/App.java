@@ -22,6 +22,7 @@ public class App {
 
         CarBrand carBrand = new CarBrand(carBrandFile, connectToCarDekho);
         carBrand.extractCarBrandApiEndPoint();
+        carBrand.extractCarBrandImage();
 
 
         // Car Data extracted by using the csv of car_brand_file

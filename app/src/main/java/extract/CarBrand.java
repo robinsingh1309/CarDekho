@@ -22,6 +22,7 @@ public class CarBrand {
 
     private CDConnect connectToCarDekho;
     private String carBrandFile;
+    private String carBrandImageFile = "/home/robin/eclipse-workspace/CarDekho/app/csv/car_brand_logo_image.csv";
     
     // Constructor
 
@@ -50,6 +51,26 @@ public class CarBrand {
         }
 
         logger.info("File written successfully at " + carBrandFile);
+    }
+    
+    public void extractCarBrandImage() throws IOException {
+        
+        Document htmlDocument = connectToCarDekho.getHtmlDocument(extractBrandApiEndpoint);
+
+        Elements brandNameElements =
+                htmlDocument.select("#brands > div > div.contentHold > div.gsc-ta-content.gsc-ta-active > ul > li");
+        logger.info("extracting Brand");
+
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter(carBrandImageFile))) {
+            for (Element brand : brandNameElements) {
+                String brandEndPoint = brand.select("a img").attr("src");
+                writer.write(brandEndPoint + "\n");
+            }
+        } catch (Exception e) {
+            logger.info("Error: " + e.getMessage());
+        }
+
+        logger.info("File written successfully at " + carBrandImageFile);
     }
 
 }
