@@ -37,7 +37,7 @@ public class ElectricCarData {
 
         ) {
 
-            writer.write("Name,Price,Type,CC,Brand");
+            writer.write("Name,Price,Type,CC,Brand,Description");
             writer.newLine();
 
             String line;
@@ -77,14 +77,32 @@ public class ElectricCarData {
                             break;
                         }
                     }
+                    
+                    
+                    String vehicleDescription = "";
+                    
+                    String linkElement = ele.select("h3 a").attr("href"); 
+                    
+                    if (!linkElement.isBlank() || linkElement != null) 
+                    {                        
+                        logger.info("Vehicle Webpage URL: " + linkElement);
+    
+                        Document vehicleHtmlDocument = connectToCarDekho.getHtmlDocument(CDEnum.CAR_DEKHO_URL.getValue() + linkElement);
+                        if (vehicleHtmlDocument == null) {
+                            logger.info("No vehicle HTML received for: " + vehicleHtmlDocument);
+                        }
+    
+                        vehicleDescription = extractVehicleDescription(vehicleHtmlDocument, vehicleName);
+                    }
 
                     String cleanedVehicleName = escapeCsvField(vehicleName);
                     String cleanedVehiclePrice = escapeCsvField(vehiclePrice);
                     String cleanedVehicleType = escapeCsvField(vehicleType);
                     String cleanedVehicleKwh = escapeCsvField(vehicleKwh);
+                    String cleanedVehicleDescription = escapeCsvField(vehicleDescription);
 
                     writer.write(cleanedVehicleName + "," + cleanedVehiclePrice + "," + cleanedVehicleType + ","
-                            + cleanedVehicleKwh + "," + cleanedVehicelBrand);
+                            + cleanedVehicleKwh + "," + cleanedVehicelBrand + "," + cleanedVehicleDescription);
                     
                     writer.newLine();
                 }
@@ -100,6 +118,34 @@ public class ElectricCarData {
         }
 
         logger.info("Data extracted successfully...");
+    }
+    
+    private String extractVehicleDescription(Document vehicleHtmlDocument, String vehicleName) {
+        
+        String[] selectors =
+                {"#rf01 > div.app-content > div > main > div.gs_readmore.model-highlight.thcontent.carSummary.loaded",
+                        "div.model-highlight.thcontent.carSummary", // fallback
+                        "section.model-overview, div.model-overview" // extra fallback
+                };
+
+        for (String selector : selectors) {
+            Elements descriptionElements = vehicleHtmlDocument.select(selector);
+            if (!descriptionElements.isEmpty()) {
+                return cleanText(descriptionElements.first().text());
+            }
+        }
+
+        logger.info("Vehicle description not found for: " + vehicleName);
+        return "N/A";
+    }
+    
+    private String cleanText(String text) {
+
+        if (text == null)
+            return "";
+
+        // Remove newlines, carriage returns, and multiple spaces
+        return text.replaceAll("[\\r\\n]+", " ").replaceAll("\\s{2,}", " ").trim();
     }
 
 

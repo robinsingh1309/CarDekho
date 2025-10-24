@@ -1,305 +1,276 @@
-Name,Price,Type,CC,Brand
-Maruti Suzuki FRONX,Rs.6.85 - 11.98 Lakh* (View On Road Price),Petrol/CNG,1197 cc,maruti-suzuki-cars
-Maruti Suzuki Swift,Rs.5.79 - 8.80 Lakh* (View On Road Price),Petrol/CNG,1197 cc,maruti-suzuki-cars
-Maruti Suzuki Ertiga,Rs.8.80 - 12.94 Lakh* (View On Road Price),Petrol/CNG,1462 cc,maruti-suzuki-cars
-,,,,maruti-suzuki-cars
-Maruti Suzuki Baleno,Rs.5.99 - 9.10 Lakh* (View On Road Price),Petrol/CNG,1197 cc,maruti-suzuki-cars
-Maruti Suzuki Dzire,Rs.6.26 - 9.31 Lakh* (View On Road Price),Petrol/CNG,1197 cc,maruti-suzuki-cars
-Maruti Suzuki Brezza,Rs.8.26 - 13.01 Lakh* (View On Road Price),Petrol/CNG,1462 cc,maruti-suzuki-cars
-Maruti Suzuki Wagon R,Rs.4.99 - 6.95 Lakh* (View On Road Price),Petrol/CNG,1197 cc,maruti-suzuki-cars
-Maruti Suzuki Alto K10,Rs.3.70 - 5.45 Lakh* (View On Road Price),Petrol/CNG,998 cc,maruti-suzuki-cars
-Maruti Suzuki Grand Vitara,Rs.10.77 - 19.72 Lakh* (View On Road Price),Petrol/CNG,1490 cc,maruti-suzuki-cars
-Maruti Suzuki Victoris,Rs.10.50 - 19.99 Lakh* (View On Road Price),Petrol/CNG,1490 cc,maruti-suzuki-cars
-Maruti Suzuki S-Presso,Rs.3.50 - 5.25 Lakh* (View On Road Price),Petrol/CNG,998 cc,maruti-suzuki-cars
-Maruti Suzuki Celerio,Rs.4.70 - 6.73 Lakh* (View On Road Price),Petrol/CNG,998 cc,maruti-suzuki-cars
-Maruti Suzuki Ignis,Rs.5.35 - 7.55 Lakh* (View On Road Price),Petrol,1197 cc,maruti-suzuki-cars
-Maruti Suzuki XL6,Rs.11.52 - 14.48 Lakh* (View On Road Price),Petrol/CNG,1462 cc,maruti-suzuki-cars
-Maruti Suzuki Jimny,Rs.12.31 - 14.45 Lakh* (View On Road Price),Petrol,1462 cc,maruti-suzuki-cars
-Maruti Suzuki Eeco,Rs.5.21 - 6.36 Lakh* (View On Road Price),Petrol/CNG,1197 cc,maruti-suzuki-cars
-Maruti Suzuki Ciaz,Rs.9.09 - 11.89 Lakh* (View On Road Price),Petrol,1462 cc,maruti-suzuki-cars
-Maruti Suzuki Invicto,Rs.24.97 - 28.61 Lakh* (View On Road Price),Petrol,1987 cc,maruti-suzuki-cars
-Maruti Suzuki Dzire Tour S,Rs.6.24 - 7.10 Lakh* (View On Road Price),Petrol/CNG,1197 cc,maruti-suzuki-cars
-Maruti Suzuki Ertiga Tour,Rs.9.68 - 10.59 Lakh* (View On Road Price),Petrol/CNG,1462 cc,maruti-suzuki-cars
-Maruti Suzuki Alto Tour H1,Rs.4 - 4.82 Lakh* (View On Road Price),Petrol/CNG,998 cc,maruti-suzuki-cars
-Maruti Suzuki Eeco Cargo,Rs.5.39 - 6.61 Lakh* (View On Road Price),Petrol/CNG,1197 cc,maruti-suzuki-cars
-Maruti Suzuki Wagon R tour,Rs.4.99 - 5.89 Lakh* (View On Road Price),Petrol/CNG,998 cc,maruti-suzuki-cars
-Tata Punch,Rs.5.50 - 9.30 Lakh* (View On Road Price),Petrol/CNG,1199 cc,Tata
-Tata Nexon,Rs.7.32 - 14.05 Lakh* (View On Road Price),Diesel/Petrol/CNG,1497 cc,Tata
-Tata Tiago,Rs.4.57 - 7.82 Lakh* (View On Road Price),Petrol/CNG,1199 cc,Tata
-,,,,Tata
-Tata Altroz,Rs.6.30 - 10.51 Lakh* (View On Road Price),Diesel/Petrol/CNG,1497 cc,Tata
-Tata Harrier,Rs.14 - 25.25 Lakh* (View On Road Price),Diesel,1956 cc,Tata
-Tata Curvv,Rs.9.66 - 18.85 Lakh* (View On Road Price),Diesel/Petrol,1497 cc,Tata
-Tata Safari,Rs.14.66 - 25.96 Lakh* (View On Road Price),Diesel,1956 cc,Tata
-Tata Harrier EV,Rs.21.49 - 30.23 Lakh* (View On Road Price),Electric,390 bhp,Tata
-Tata Punch EV,Rs.9.99 - 14.44 Lakh* (View On Road Price),Electric,120.69 bhp,Tata
-Tata Nexon EV,Rs.12.49 - 17.49 Lakh* (View On Road Price),Electric,142 bhp,Tata
-Tata Tiago EV,Rs.7.99 - 11.14 Lakh* (View On Road Price),Electric,73.75 bhp,Tata
-Tata Tigor,Rs.5.49 - 8.74 Lakh* (View On Road Price),Petrol/CNG,1199 cc,Tata
-Tata Curvv EV,Rs.17.49 - 22.24 Lakh* (View On Road Price),Electric,165 bhp,Tata
-Tata Tiago NRG,Rs.6.68 - 8.10 Lakh* (View On Road Price),Petrol/CNG,1199 cc,Tata
-Tata Tigor EV,Rs.12.49 - 13.75 Lakh* (View On Road Price),Electric,73.75 bhp,Tata
-Tata Yodha Pickup,Rs.6.95 - 7.50 Lakh* (View On Road Price),Diesel,2956 cc,Tata
-Kia Sonet,Rs.7.30 - 14 Lakh* (View On Road Price),Diesel/Petrol,1493 cc,Kia
-Kia Seltos,Rs.10.79 - 19.81 Lakh* (View On Road Price),Diesel/Petrol,1497 cc,Kia
-Kia Carens,Rs.10.99 - 12.77 Lakh* (View On Road Price),Diesel/Petrol,1497 cc,Kia
-,,,,Kia
-Kia Syros,Rs.8.67 - 15.94 Lakh* (View On Road Price),Diesel/Petrol,1493 cc,Kia
-Kia Carnival,Rs.59.42 Lakh* (View On Road Price),Diesel,2151 cc,Kia
-Kia Carens Clavis,Rs.11.08 - 20.71 Lakh* (View On Road Price),Diesel/Petrol,1497 cc,Kia
-Kia EV6,Rs.65.97 Lakh* (View On Road Price),Electric,321 bhp,Kia
-Kia Carens Clavis EV,Rs.17.99 - 24.49 Lakh* (View On Road Price),Electric,169 bhp,Kia
-Kia EV9,Rs.1.30 Cr* (View On Road Price),Electric,379 bhp,Kia
-Toyota Fortuner,Rs.33.65 - 48.85 Lakh* (View On Road Price),Diesel/Petrol,2755 cc,toyota-cars
-Toyota Innova Crysta,Rs.18.66 - 25.27 Lakh* (View On Road Price),Diesel,2393 cc,toyota-cars
-Toyota Urban Cruiser Hyryder,Rs.10.95 - 19.76 Lakh* (View On Road Price),Petrol/CNG,1490 cc,toyota-cars
-,,,,toyota-cars
-Toyota Land Cruiser 300,Rs.2.16 - 2.25 Cr* (View On Road Price),Diesel,3346 cc,toyota-cars
-Toyota Glanza,Rs.6.39 - 9.15 Lakh* (View On Road Price),Petrol/CNG,1197 cc,toyota-cars
-Toyota Innova Hycross,Rs.18.16 - 30.83 Lakh* (View On Road Price),Petrol,1987 cc,toyota-cars
-Toyota Hilux,Rs.28.02 - 35.37 Lakh* (View On Road Price),Diesel,2755 cc,toyota-cars
-Toyota Vellfire,Rs.1.20 - 1.30 Cr* (View On Road Price),Petrol,2487 cc,toyota-cars
-Toyota Taisor,Rs.7.21 - 12.06 Lakh* (View On Road Price),Petrol/CNG,1197 cc,toyota-cars
-Toyota Rumion,Rs.10.44 - 13.62 Lakh* (View On Road Price),Petrol/CNG,1462 cc,toyota-cars
-Toyota Fortuner Legender,Rs.41.54 - 46.75 Lakh* (View On Road Price),Diesel,2755 cc,toyota-cars
-Toyota Camry,Rs.47.48 Lakh* (View On Road Price),Petrol,2487 cc,toyota-cars
-Hyundai Creta,Rs.10.73 - 20.20 Lakh* (View On Road Price),Diesel/Petrol,1497 cc,Hyundai
-Hyundai Venue,Rs.7.26 - 12.46 Lakh* (View On Road Price),Diesel/Petrol,1493 cc,Hyundai
-Hyundai i20,Rs.6.87 - 10.43 Lakh* (View On Road Price),Petrol,1197 cc,Hyundai
-,,,,Hyundai
-Hyundai Exter,Rs.5.68 - 9.61 Lakh* (View On Road Price),Petrol/CNG,1197 cc,Hyundai
-Hyundai Verna,Rs.10.69 - 16.98 Lakh* (View On Road Price),Petrol,1497 cc,Hyundai
-Hyundai Aura,Rs.5.98 - 8.42 Lakh* (View On Road Price),Petrol/CNG,1197 cc,Hyundai
-Hyundai Alcazar,Rs.14.47 - 21.10 Lakh* (View On Road Price),Diesel/Petrol,1493 cc,Hyundai
-Hyundai Tucson,Rs.27.32 - 33.64 Lakh* (View On Road Price),Diesel/Petrol,1999 cc,Hyundai
-Hyundai Creta Electric,Rs.18.02 - 24.55 Lakh* (View On Road Price),Electric,169 bhp,Hyundai
-Hyundai Creta N Line,Rs.17.83 - 20.09 Lakh* (View On Road Price),Petrol,1482 cc,Hyundai
-Hyundai Venue N Line,Rs.11.11 - 12.81 Lakh* (View On Road Price),Petrol,998 cc,Hyundai
-Hyundai Grand i10 Nios,Rs.5.47 - 7.92 Lakh* (View On Road Price),Petrol/CNG,1197 cc,Hyundai
-Hyundai i20 N-Line,Rs.9.14 - 11.60 Lakh* (View On Road Price),Petrol,998 cc,Hyundai
-Hyundai IONIQ 5,Rs.46.05 Lakh* (View On Road Price),Electric,214.56 bhp,Hyundai
-Mahindra Bolero,Rs.7.99 - 9.69 Lakh* (View On Road Price),Diesel,1493 cc,Mahindra
-Mahindra Thar,Rs.9.99 - 16.99 Lakh* (View On Road Price),Diesel/Petrol,2184 cc,Mahindra
-Mahindra Scorpio N,Rs.13.20 - 24.17 Lakh* (View On Road Price),Diesel/Petrol,2198 cc,Mahindra
-,,,,Mahindra
-Mahindra XUV700,Rs.13.66 - 23.71 Lakh* (View On Road Price),Diesel/Petrol,2198 cc,Mahindra
-Mahindra Scorpio,Rs.12.98 - 16.70 Lakh* (View On Road Price),Diesel,2184 cc,Mahindra
-Mahindra Bolero Neo,Rs.8.49 - 10.49 Lakh* (View On Road Price),Diesel,1493 cc,Mahindra
-Mahindra XUV 3XO,Rs.7.28 - 14.40 Lakh* (View On Road Price),Diesel/Petrol,1498 cc,Mahindra
-Mahindra Thar ROXX,Rs.12.25 - 22.06 Lakh* (View On Road Price),Diesel/Petrol,2184 cc,Mahindra
-Mahindra BE 6,Rs.18.90 - 27.79 Lakh* (View On Road Price),Electric,282 bhp,Mahindra
-Mahindra XEV 9e,Rs.21.90 - 31.25 Lakh* (View On Road Price),Electric,282 bhp,Mahindra
-Mahindra Bolero Camper,Rs.9.22 - 10 Lakh* (View On Road Price),Diesel,2523 cc,Mahindra
-Mahindra Marazzo,Rs.14.06 - 16.38 Lakh* (View On Road Price),Diesel,1497 cc,Mahindra
-Mahindra XUV400 EV,Rs.15.49 - 17.69 Lakh* (View On Road Price),Electric,149.55 bhp,Mahindra
-Mahindra Bolero Neo Plus,Rs.10.77 - 11.80 Lakh* (View On Road Price),Diesel,2184 cc,Mahindra
-Mahindra Bolero Pik-Up,Rs.9.05 - 9.86 Lakh* (View On Road Price),Diesel,2523 cc,Mahindra
-Honda Amaze,Rs.7.41 - 10 Lakh* (View On Road Price),19.46 kmpl,1199 cc,Honda
-Honda City,Rs.11.95 - 16.07 Lakh* (View On Road Price),18.4 kmpl,1498 cc,Honda
-Honda Elevate,Rs.11 - 16.15 Lakh* (View On Road Price),16.92 kmpl,1498 cc,Honda
-,,,,Honda
-Honda City Hybrid,Rs.19.48 Lakh* (View On Road Price),27.13 kmpl,1498 cc,Honda
-Honda Amaze 2nd Gen,Rs.6.98 - 7.80 Lakh* (View On Road Price),18.6 kmpl,1199 cc,Honda
-MG Windsor EV,Rs.12.65 - 18.39 Lakh* (View On Road Price),Electric,134 bhp,MG
-MG Hector,Rs.14 - 20.76 Lakh* (View On Road Price),Diesel/Petrol,1956 cc,MG
-MG Comet EV,Rs.7.50 - 9.56 Lakh* (View On Road Price),Electric,42 bhp,MG
-,,,,MG
-MG Cyberster,Rs.75 Lakh* (View On Road Price),Electric,503 bhp,MG
-MG Astor,Rs.9.65 - 16.24 Lakh* (View On Road Price),Petrol,1498 cc,MG
-MG Gloster,Rs.38.33 - 43.16 Lakh* (View On Road Price),Diesel,1996 cc,MG
-MG M9,Rs.69.90 Lakh* (View On Road Price),Electric,242 bhp,MG
-MG ZS EV,Rs.17.99 - 20.50 Lakh* (View On Road Price),Electric,174.33 bhp,MG
-MG Hector Plus,Rs.16.05 - 22.75 Lakh* (View On Road Price),Diesel/Petrol,1956 cc,MG
-Skoda Kylaq,Rs.7.55 - 12.80 Lakh* (View On Road Price),19.68 kmpl,999 cc,Skoda
-Skoda Slavia,Rs.10 - 17.70 Lakh* (View On Road Price),20.32 kmpl,1498 cc,Skoda
-Skoda Kushaq,Rs.10.61 - 18.43 Lakh* (View On Road Price),19.76 kmpl,1498 cc,Skoda
-,,,,Skoda
-Skoda Kodiaq,Rs.39.99 - 45.96 Lakh* (View On Road Price),14.86 kmpl,1984 cc,Skoda
-Jeep Compass,Rs.17.73 - 30.50 Lakh* (View On Road Price),17.1 kmpl,1956 cc,Jeep
-Jeep Meridian,Rs.23.33 - 36.21 Lakh* (View On Road Price),14.1 kmpl,1956 cc,Jeep
-Jeep Wrangler,Rs.64.08 - 67.81 Lakh* (View On Road Price),11.4 kmpl,1995 cc,Jeep
-,,,,Jeep
-Jeep Grand Cherokee,Rs.63 Lakh* (View On Road Price),7.2 kmpl,1995 cc,Jeep
-Renault Triber,Rs.5.76 - 8.60 Lakh* (View On Road Price),20 kmpl,999 cc,Renault
-Renault KWID,Rs.4.30 - 5.90 Lakh* (View On Road Price),22.3 kmpl,999 cc,Renault
-Renault Kiger,Rs.5.76 - 10.34 Lakh* (View On Road Price),20.38 kmpl,999 cc,Renault
-,,,,Renault
-Nissan Magnite,Rs.5.62 - 10.76 Lakh* (View On Road Price),Petrol/CNG,999 cc,Nissan
-Nissan X-Trail,Rs.48.20 Lakh* (View On Road Price),Petrol,1498 cc,Nissan
-Volkswagen Virtus,Rs.11.16 - 18.73 Lakh* (View On Road Price),20.8 kmpl,1498 cc,Volkswagen
-Volkswagen Taigun,Rs.11.39 - 19.15 Lakh* (View On Road Price),19.87 kmpl,1498 cc,Volkswagen
-Volkswagen Golf GTI,Rs.50.91 Lakh* (View On Road Price),Automatic,1984 cc,Volkswagen
-,,,,Volkswagen
-Volkswagen Tiguan R-Line,Rs.45.73 Lakh* (View On Road Price),12.58 kmpl,1984 cc,Volkswagen
-Citroen Aircross,Rs.8.29 - 13.69 Lakh* (View On Road Price),Petrol,1199 cc,Citroen
-Citroen C3,Rs.4.80 - 10.21 Lakh* (View On Road Price),Petrol/CNG,1199 cc,Citroen
-Citroen Basalt,Rs.7.95 - 14.10 Lakh* (View On Road Price),Petrol,1199 cc,Citroen
-,,,,Citroen
-Citroen C5 Aircross,Rs.37.32 Lakh* (View On Road Price),Diesel,1997 cc,Citroen
-Citroen eC3,Rs.12.90 - 13.41 Lakh* (View On Road Price),Electric,56.21 bhp,Citroen
-Aston Martin Vantage,Rs.3.77 Cr* (View On Road Price),7 kmpl,3998 cc,Aston_Martin
-Aston Martin DB12,Rs.4.34 Cr* (View On Road Price),10 kmpl,3982 cc,Aston_Martin
-Aston Martin DBX,Rs.3.82 - 4.38 Cr* (View On Road Price),8 kmpl,3982 cc,Aston_Martin
-,,,,Aston_Martin
-Aston Martin Vanquish,Rs.8.37 Cr* (View On Road Price),,5203 cc,Aston_Martin
-Audi A4,Rs.46.25 - 55.11 Lakh* (View On Road Price),15 kmpl,1984 cc,Audi
-Audi Q7,Rs.86.14 - 95.03 Lakh* (View On Road Price),11 kmpl,2995 cc,Audi
-Audi Q3,Rs.43.07 - 52.98 Lakh* (View On Road Price),10.14 kmpl,1984 cc,Audi
-,,,,Audi
-Audi A6,Rs.63.74 - 69.89 Lakh* (View On Road Price),14.11 kmpl,1984 cc,Audi
-Audi Q5,Rs.64.74 - 69.86 Lakh* (View On Road Price),13.47 kmpl,1984 cc,Audi
-Audi Q8,Rs.1.10 Cr* (View On Road Price),10 kmpl,2995 cc,Audi
-Audi Q3 Sportback,Rs.52.98 - 53.55 Lakh* (View On Road Price),10.14 kmpl,1984 cc,Audi
-Audi RS e-tron GT,Rs.1.95 Cr* (View On Road Price),481 km,636.98 bhp,Audi
-Audi Q8 e-tron,Rs.1.15 - 1.27 Cr* (View On Road Price),582 km,402.3 bhp,Audi
-Audi RS Q8,Rs.2.32 Cr* (View On Road Price),9 kmpl,3998 cc,Audi
-Audi e-tron GT,Rs.1.72 Cr* (View On Road Price),500 km,522.99 bhp,Audi
-Audi Q8 Sportback e-tron,Rs.1.19 - 1.32 Cr* (View On Road Price),600 km,402.3 bhp,Audi
-Audi S5 Sportback,Rs.73.57 - 80.50 Lakh* (View On Road Price),10.6 kmpl,2994 cc,Audi
-Bajaj Qute,Rs.3.61 Lakh* (View On Road Price),,216 cc,Bajaj
-Bentley Flying Spur,Rs.5.25 - 7.60 Cr* (View On Road Price),12.5 kmpl,5950 cc,Bentley
-Bentley Continental,Rs.5.23 - 8.45 Cr* (View On Road Price),12.9 kmpl,5993 cc,Bentley
-Bentley Bentayga,Rs.5 - 6.75 Cr* (View On Road Price),8.6 kmpl,3993 cc,Bentley
-,,,,Bentley
-BMW M5,Rs.2.01 Cr* (View On Road Price),Petrol,4395 cc,bmw-cars
-BMW X5,Rs.93.70 Lakh - 1.05 Cr* (View On Road Price),Diesel/Petrol,2998 cc,bmw-cars
-BMW X7,Rs.1.25 - 1.29 Cr* (View On Road Price),Diesel/Petrol,2998 cc,bmw-cars
-,,,,bmw-cars
-BMW X3,Rs.71.20 - 73.10 Lakh* (View On Road Price),Diesel/Petrol,1998 cc,bmw-cars
-BMW X1,Rs.50.60 - 52.20 Lakh* (View On Road Price),Diesel/Petrol,1995 cc,bmw-cars
-BMW M2,Rs.1 Cr* (View On Road Price),Petrol,2993 cc,bmw-cars
-BMW 5 Series,Rs.72.35 Lakh* (View On Road Price),Petrol,1998 cc,bmw-cars
-BMW 3 Series,Rs.72.85 - 73.95 Lakh* (View On Road Price),Petrol,2998 cc,bmw-cars
-BMW Z4,Rs.87.90 - 92.60 Lakh* (View On Road Price),Petrol,2998 cc,bmw-cars
-BMW M4 Competition,Rs.1.52 Cr* (View On Road Price),Petrol,2993 cc,bmw-cars
-BMW XM,Rs.2.55 Cr* (View On Road Price),Petrol,4395 cc,bmw-cars
-BMW iX1,Rs.49.90 Lakh* (View On Road Price),Electric,204 bhp,bmw-cars
-BMW M8 Coupe Competition,Rs.2.38 Cr* (View On Road Price),Petrol,4395 cc,bmw-cars
-BMW 7 Series,Rs.1.79 - 1.82 Cr* (View On Road Price),Diesel/Petrol,2998 cc,bmw-cars
-BMW 2 Series Gran Coupe,Rs.45.30 - 47.20 Lakh* (View On Road Price),Petrol,1499 cc,bmw-cars
-BMW i7,Rs.2.05 - 2.58 Cr* (View On Road Price),Electric,650.39 bhp,bmw-cars
-BMW iX,Rs.1.40 Cr* (View On Road Price),Electric,516.29 bhp,bmw-cars
-BMW M4 CS,Rs.1.79 Cr* (View On Road Price),Petrol,2993 cc,bmw-cars
-BMW i4,Rs.72.50 - 77.50 Lakh* (View On Road Price),Electric,335.25 bhp,bmw-cars
-BMW 3 Series Long Wheelbase,Rs.60.50 - 61.80 Lakh* (View On Road Price),Diesel/Petrol,1998 cc,bmw-cars
-BMW i5,Rs.1.20 Cr* (View On Road Price),Electric,592.73 bhp,bmw-cars
-BYD Atto 3,Rs.24.99 - 33.99 Lakh* (View On Road Price),521 km,201 bhp,BYD
-BYD Seal,Rs.41 - 53.15 Lakh* (View On Road Price),650 km,523 bhp,BYD
-BYD Sealion 7,Rs.48.90 - 54.90 Lakh* (View On Road Price),567 km,523 bhp,BYD
-,,,,BYD
-BYD eMAX 7,Rs.26.90 - 29.90 Lakh* (View On Road Price),530 km,201 bhp,BYD
-Ferrari 296 GTB,Rs.5.40 Cr* (View On Road Price),15.62 kmpl,2992 cc,Ferrari
-Ferrari F8 Tributo,Rs.4.02 Cr* (View On Road Price),5.8 kmpl,3902 cc,Ferrari
-Ferrari SF90 Stradale,Rs.7.50 Cr* (View On Road Price),18 kmpl,3990 cc,Ferrari
-,,,,Ferrari
-Ferrari Roma,Rs.3.76 Cr* (View On Road Price),6 kmpl,3855 cc,Ferrari
-Ferrari 812,Rs.5.75 Cr* (View On Road Price),5.5 kmpl,6496 cc,Ferrari
-Force Urbania,Rs.26.34 - 31.83 Lakh* (View On Road Price),11 kmpl,2596 cc,Force
-Force Gurkha,Rs.15.95 Lakh* (View On Road Price),9.5 kmpl,2596 cc,Force
-Force Gurkha 5 Door,Rs.17.27 Lakh* (View On Road Price),9.5 kmpl,2596 cc,Force
-,,,,Force
-Isuzu D-Max,Rs.11.20 - 11.98 Lakh* (View On Road Price),12 kmpl,2499 cc,Isuzu
-Isuzu MU-X,Rs.34.53 - 37.71 Lakh* (View On Road Price),13 kmpl,1898 cc,Isuzu
-Isuzu S-CAB,Rs.13.37 Lakh* (View On Road Price),16.56 kmpl,2499 cc,Isuzu
-,,,,Isuzu
-Isuzu S-CAB Z,Rs.15.39 Lakh* (View On Road Price),Manual,2499 cc,Isuzu
-Isuzu V-Cross,Rs.24.27 - 29.37 Lakh* (View On Road Price),12.4 kmpl,1898 cc,Isuzu
-Isuzu Hi-Lander,Rs.20.35 Lakh* (View On Road Price),12.4 kmpl,1898 cc,Isuzu
-Jaguar F-Pace,Rs.72.90 Lakh* (View On Road Price),Diesel/Petrol,1997 cc,Jaguar
-Lamborghini Urus,Rs.4.18 - 4.57 Cr* (View On Road Price),5.5 kmpl,3999 cc,Lamborghini
-Lamborghini Revuelto,Rs.8.89 Cr* (View On Road Price),,6498 cc,Lamborghini
-Lamborghini Temerario,Rs.6 Cr* (View On Road Price),,3995 cc,Lamborghini
-,,,,Lamborghini
-Lamborghini Huracan EVO,Rs.4 - 4.99 Cr* (View On Road Price),5.9 kmpl,5204 cc,Lamborghini
-Defender,Rs.98 Lakh - 2.60 Cr* (View On Road Price),Diesel/Petrol,5000 cc,Land_Rover
-Range Rover,Rs.2.31 - 4.25 Cr* (View On Road Price),Diesel/Petrol,4395 cc,Land_Rover
-Range Rover Velar,Rs.83.90 Lakh* (View On Road Price),Diesel/Petrol,1997 cc,Land_Rover
-,,,,Land_Rover
-Range Rover Sport,Rs.1.38 - 2.75 Cr* (View On Road Price),Diesel/Petrol,4395 cc,Land_Rover
-Range Rover Evoque,Rs.64.86 Lakh* (View On Road Price),Diesel/Petrol,1997 cc,Land_Rover
-Land Rover Discovery,Rs.1.25 - 1.37 Cr* (View On Road Price),Diesel,2997 cc,Land_Rover
-Land Rover Discovery Sport,Rs.63.37 Lakh* (View On Road Price),Diesel/Petrol,1999 cc,Land_Rover
-Lexus LM,Rs.2.15 - 2.69 Cr* (View On Road Price),,2487 cc,Lexus
-Lexus ES,Rs.62.65 - 68.23 Lakh* (View On Road Price),18 kmpl,2487 cc,Lexus
-Lexus NX,Rs.66.59 - 73.40 Lakh* (View On Road Price),9.5 kmpl,2487 cc,Lexus
-,,,,Lexus
-Lexus LX,Rs.2.80 - 2.91 Cr* (View On Road Price),5 kmpl,3346 cc,Lexus
-Lexus RX,Rs.96.13 Lakh - 1.18 Cr* (View On Road Price),,2487 cc,Lexus
-Lotus Eletre,Rs.2.55 - 2.99 Cr* (View On Road Price),Automatic,603 bhp,Lotus
-Lotus Emeya,Rs.2.34 Cr* (View On Road Price),Automatic,594.71 bhp,Lotus
-Lotus Emira,Rs.3.22 Cr* (View On Road Price),Manual/Automatic,1998 cc,Lotus
-,,,,Lotus
-Maserati Grecale,Rs.1.31 - 2.05 Cr* (View On Road Price),Petrol,3000 cc,Maserati
-Maserati Levante,Rs.1.49 - 1.64 Cr* (View On Road Price),Diesel/Petrol,2987 cc,Maserati
-Maserati GranTurismo,Rs.2.25 - 2.51 Cr* (View On Road Price),Diesel/Petrol,4691 cc,Maserati
-,,,,Maserati
-Maserati Quattroporte,Rs.1.71 - 1.86 Cr* (View On Road Price),Diesel/Petrol,2999 cc,Maserati
-Maserati GranCabrio,Rs.2.46 - 2.69 Cr* (View On Road Price),Diesel/Petrol,4691 cc,Maserati
-Mclaren GT,Rs.4.50 Cr* (View On Road Price),5.1 kmpl,3994 cc,Mclaren
-Mclaren 750S,Rs.5.91 Cr* (View On Road Price),6.1 kmpl,3994 cc,Mclaren
-Mercedes-Benz C-Class,Rs.58.65 - 64.30 Lakh* (View On Road Price),Diesel/Petrol,1999 cc,Mercedes-Benz
-Mercedes-Benz S-Class,Rs.1.78 - 1.88 Cr* (View On Road Price),Diesel/Petrol,2999 cc,Mercedes-Benz
-Mercedes-Benz Maybach GLS,Rs.3.17 - 3.71 Cr* (View On Road Price),Petrol,3982 cc,Mercedes-Benz
-,,,,Mercedes-Benz
-Mercedes-Benz GLS,Rs.1.32 - 1.42 Cr* (View On Road Price),Diesel/Petrol,2999 cc,Mercedes-Benz
-Mercedes-Benz GLC,Rs.73.95 Lakh* (View On Road Price),Diesel/Petrol,1999 cc,Mercedes-Benz
-Mercedes-Benz GLE,Rs.96.15 Lakh - 1.12 Cr* (View On Road Price),Diesel/Petrol,2999 cc,Mercedes-Benz
-Mercedes-Benz E-Class,Rs.78.50 - 91.65 Lakh* (View On Road Price),Diesel/Petrol,2999 cc,Mercedes-Benz
-Mercedes-Benz G-Class Electric,Rs.3.10 Cr* (View On Road Price),Electric,579 bhp,Mercedes-Benz
-Mercedes-Benz EQS SUV,Rs.1.33 - 1.48 Cr* (View On Road Price),Electric,536.4 bhp,Mercedes-Benz
-Mercedes-Benz GLA,Rs.49.70 - 52.70 Lakh* (View On Road Price),Diesel/Petrol,1950 cc,Mercedes-Benz
-Mercedes-Benz EQB,Rs.72.20 - 78.90 Lakh* (View On Road Price),Electric,288.32 bhp,Mercedes-Benz
-Mercedes-Benz AMG CLE 53,Rs.1.28 Cr* (View On Road Price),Petrol,2999 cc,Mercedes-Benz
-Mercedes-Benz AMG SL,Rs.2.34 Cr* (View On Road Price),Petrol,3982 cc,Mercedes-Benz
-Mercedes-Benz AMG GLC 43,Rs.99.35 Lakh* (View On Road Price),Petrol,1991 cc,Mercedes-Benz
-Mercedes-Benz Maybach SL 680,Rs.4.12 Cr* (View On Road Price),Petrol,3982 cc,Mercedes-Benz
-Mercedes-Benz G-Class,Rs.2.55 - 4.30 Cr* (View On Road Price),Diesel/Petrol,3982 cc,Mercedes-Benz
-Mercedes-Benz EQE SUV,Rs.1.41 Cr* (View On Road Price),Electric,402.3 bhp,Mercedes-Benz
-Mercedes-Benz AMG C43,Rs.94.05 Lakh* (View On Road Price),Petrol,1991 cc,Mercedes-Benz
-Mercedes-Benz Maybach EQS SUV,Rs.2.28 - 2.63 Cr* (View On Road Price),Electric,649 bhp,Mercedes-Benz
-Mercedes-Benz EQS,Rs.1.30 - 1.63 Cr* (View On Road Price),Electric,750.97 bhp,Mercedes-Benz
-Mercedes-Benz AMG A 45 S,Rs.94.80 Lakh* (View On Road Price),Petrol,1991 cc,Mercedes-Benz
-Mercedes-Benz Maybach S-Class,Rs.2.74 - 3.47 Cr* (View On Road Price),Petrol,5980 cc,Mercedes-Benz
-Mercedes-Benz AMG C 63,Rs.1.91 Cr* (View On Road Price),Petrol,1991 cc,Mercedes-Benz
-Mercedes-Benz EQA,Rs.67.20 Lakh* (View On Road Price),Electric,188 bhp,Mercedes-Benz
-Mercedes-Benz CLE Cabriolet,Rs.1.11 Cr* (View On Road Price),Petrol,1999 cc,Mercedes-Benz
-Mercedes-Benz A-Class Limousine,Rs.44.45 - 45.95 Lakh* (View On Road Price),Diesel/Petrol,1950 cc,Mercedes-Benz
-Mercedes-Benz AMG GLE 53,Rs.1.88 Cr* (View On Road Price),Petrol,2999 cc,Mercedes-Benz
-Mercedes-Benz AMG E 53 Cabriolet,Rs.1.30 Cr* (View On Road Price),Petrol,2998 cc,Mercedes-Benz
-Mercedes-Benz AMG EQS,Rs.2.45 Cr* (View On Road Price),Electric,751 bhp,Mercedes-Benz
-Mercedes-Benz AMG GLA 35,Rs.58.50 Lakh* (View On Road Price),Petrol,1991 cc,Mercedes-Benz
-Mercedes-Benz AMG GT 4 Door Coupe,Rs.3.27 Cr* (View On Road Price),Petrol,3982 cc,Mercedes-Benz
-Mercedes-Benz AMG GT Coupe,Rs.2.88 - 3.45 Cr* (View On Road Price),Petrol,3982 cc,Mercedes-Benz
-Mercedes-Benz AMG S 63,Rs.3.27 - 3.80 Cr* (View On Road Price),Petrol,3982 cc,Mercedes-Benz
-Mini Cooper 3 DOOR,Rs.42.70 Lakh* (View On Road Price),17.33 kmpl,1998 cc,Mini
-Mini Cooper S,Rs.43.70 - 54.40 Lakh* (View On Road Price),15 kmpl,1998 cc,Mini
-Mini Cooper SE,Rs.53.50 Lakh* (View On Road Price),270 km,181.03 bhp,Mini
-,,,,Mini
-Mini Countryman Electric,Rs.54.90 Lakh* (View On Road Price),462 km,313 bhp,Mini
-Mini Countryman,Rs.64.90 Lakh* (View On Road Price),,1998 cc,Mini
-PMV EaS E,Rs.4.79 Lakh* (View On Road Price),160 km,13.41 bhp,PMV
-Porsche 911,Rs.2 - 3.77 Cr* (View On Road Price),10.64 kmpl,3996 cc,porsche-cars
-Porsche Cayenne,Rs.1.39 - 1.94 Cr* (View On Road Price),10.8 kmpl,2894 cc,porsche-cars
-Porsche Macan,Rs.89.65 Lakh* (View On Road Price),6.1 kmpl,1984 cc,porsche-cars
-,,,,porsche-cars
-Porsche Taycan,Rs.1.70 - 2.69 Cr* (View On Road Price),705 km,872 bhp,porsche-cars
-Porsche Panamera,Rs.1.71 - 2.33 Cr* (View On Road Price),20 kmpl,3996 cc,porsche-cars
-Porsche Macan EV,Rs.1.22 - 1.69 Cr* (View On Road Price),624 km,608 bhp,porsche-cars
-Porsche Cayenne Coupe,Rs.1.44 - 1.95 Cr* (View On Road Price),8 kmpl,3996 cc,porsche-cars
-Pravaig DEFY,Rs.39.50 Lakh* (View On Road Price),500 km,402 bhp,Pravaig
-Rolls-Royce Phantom,Rs.8.99 - 10.48 Cr* (View On Road Price),9.8 kmpl,6749 cc,Rolls-Royce
-Rolls-Royce Spectre,Rs.7.50 Cr* (View On Road Price),530 km,576.63 bhp,Rolls-Royce
-Rolls-Royce Cullinan,Rs.10.50 - 12.25 Cr* (View On Road Price),6.6 kmpl,6750 cc,Rolls-Royce
-,,,,Rolls-Royce
-Rolls-Royce Ghost Series II,Rs.8.95 - 10.52 Cr* (View On Road Price),,6750 cc,Rolls-Royce
-Strom Motors R3,Rs.4.50 Lakh* (View On Road Price),200 km,20.11 bhp,Strom_Motors
-Tesla Model Y,Rs.59.89 - 73.89 Lakh* (View On Road Price),661 km,295 bhp,Tesla
-Vayve Mobility Eva,Rs.3.25 - 4.49 Lakh* (View On Road Price),250 km,20.11 bhp,Vayve_Mobility
-VinFast VF6,Rs.16.49 - 18.29 Lakh* (View On Road Price),468 km,201.15 bhp,VinFast
-VinFast VF7,Rs.20.89 - 25.49 Lakh* (View On Road Price),532 km,348.66 bhp,VinFast
-Volvo XC90,Rs.96.97 Lakh* (View On Road Price),12.35 kmpl,1969 cc,Volvo
-Volvo EX30,Rs.39.99 Lakh* (View On Road Price),480 km,272 bhp,Volvo
-Volvo XC60,Rs.67.11 Lakh* (View On Road Price),,1969 cc,Volvo
-,,,,Volvo
-Volvo EC40,Rs.59 Lakh* (View On Road Price),530 km,402.3 bhp,Volvo
-Volvo EX40,Rs.49 Lakh* (View On Road Price),592 km,237.99 bhp,Volvo
+Name,Price,Type,CC,Brand,Description
+Maruti Suzuki Swift,Rs.5.79 - 8.80 Lakh* (View On Road Price),Petrol/CNG,1197 cc,maruti-suzuki-cars,"""The Maruti Swift is a midsize hatchback in India which offers a good balance of features, performance, and fuel efficiency. It is available with Suzuki’s new 1.2-litre Z series 3- cylinder petrol engine in both 5-speed manual or 5-speed AMT transmission. The Swift is now also available in CNG offering a claimed fuel efficiency of 32.85 km/kg."""
+Maruti Suzuki FRONX,Rs.6.85 - 11.98 Lakh* (View On Road Price),Petrol/CNG,1197 cc,maruti-suzuki-cars,N/A
+Maruti Suzuki Ertiga,Rs.8.80 - 12.94 Lakh* (View On Road Price),Petrol/CNG,1462 cc,maruti-suzuki-cars,N/A
+Maruti Suzuki Dzire,Rs.6.26 - 9.31 Lakh* (View On Road Price),Petrol/CNG,1197 cc,maruti-suzuki-cars,N/A
+Maruti Suzuki Baleno,Rs.5.99 - 9.10 Lakh* (View On Road Price),Petrol/CNG,1197 cc,maruti-suzuki-cars,N/A
+Maruti Suzuki Brezza,Rs.8.26 - 13.01 Lakh* (View On Road Price),Petrol/CNG,1462 cc,maruti-suzuki-cars,N/A
+Maruti Suzuki Wagon R,Rs.4.99 - 6.95 Lakh* (View On Road Price),Petrol/CNG,1197 cc,maruti-suzuki-cars,N/A
+Maruti Suzuki Alto K10,Rs.3.70 - 5.45 Lakh* (View On Road Price),Petrol/CNG,998 cc,maruti-suzuki-cars,N/A
+Maruti Suzuki Grand Vitara,Rs.10.77 - 19.72 Lakh* (View On Road Price),Petrol/CNG,1490 cc,maruti-suzuki-cars,"""The 2025 Maruti Grand Vitara is a compact SUV that is known for its elegant design and incredible fuel efficiency. An unique point is that it has an all-wheel drive option. The Grand Vitara’s design is clean and will stand the test of time well. Dual-tone colour options such as silver and blue make it stand out. Its interior is logically laid out and friendly to use with all the controls placed at the right places. The Grand Vitara is also fairly spacious and can seat 5 occupants in decent comfort. Top features include a 9-inch touchscreen infotainment, ventilated front seats, panoramic sunroof, a 7-inch digital driver’s display, heads-up display and powered driver’s seat. The Grand Vitara is offered with a choice of either a 1.5-litre strong-hybrid and petrol engines. The latter also gets the option of a CNG and all-wheel drive."""
+Maruti Suzuki Victoris,Rs.10.50 - 19.99 Lakh* (View On Road Price),Petrol/CNG,1490 cc,maruti-suzuki-cars,"""The Maruti Victoris is a new compact SUV positioned between the Brezza and Grand Vitara, and will be the flagship model under Maruti’s Arena dealership. It is the first Maruti SUV to get Level-2 ADAS and has secured a 5-star Bharat NCAP safety rating. Engine options include a 1.5-litre mild-hybrid petrol, a strong-hybrid, and a CNG variant, offering both efficiency and choice. Price will be announced in October 2025."""
+Maruti Suzuki S-Presso,Rs.3.50 - 5.25 Lakh* (View On Road Price),Petrol/CNG,998 cc,maruti-suzuki-cars,N/A
+Maruti Suzuki Celerio,Rs.4.70 - 6.73 Lakh* (View On Road Price),Petrol/CNG,998 cc,maruti-suzuki-cars,N/A
+Maruti Suzuki Ignis,Rs.5.35 - 7.55 Lakh* (View On Road Price),Petrol,1197 cc,maruti-suzuki-cars,N/A
+Maruti Suzuki XL6,Rs.11.52 - 14.48 Lakh* (View On Road Price),Petrol/CNG,1462 cc,maruti-suzuki-cars,N/A
+Maruti Suzuki Jimny,Rs.12.31 - 14.45 Lakh* (View On Road Price),Petrol,1462 cc,maruti-suzuki-cars,"""The Maruti Suzuki Jimny is a 5-door subcompact lifestyle SUV that stands out with its cute, retro, and boxy design. It seats four and offers a decent set of practical features, though not quite as many as its rivals. The performance is good enough for daily driving, and it comes with 4x4 as standard. The Jimny's highlight, though, is its excellent ride quality, especially on rough, pothole-filled roads."""
+Maruti Suzuki Eeco,Rs.5.21 - 6.36 Lakh* (View On Road Price),Petrol/CNG,1197 cc,maruti-suzuki-cars,N/A
+Maruti Suzuki Ciaz,Rs.9.09 - 11.89 Lakh* (View On Road Price),Petrol,1462 cc,maruti-suzuki-cars,"""The Maruti Ciaz is a compact sedan that is known for its affordability and comfort. It has a claimed mileage of up to 20.65 kmpl which also makes it a great choice for buyers seeking fuel efficiency. It offers good space for five passengers and makes for a practical, comfortable and value-for-money city car."""
+Maruti Suzuki Invicto,Rs.24.97 - 28.61 Lakh* (View On Road Price),Petrol,1987 cc,maruti-suzuki-cars,N/A
+Maruti Suzuki Dzire Tour S,Rs.6.24 - 7.10 Lakh* (View On Road Price),Petrol/CNG,1197 cc,maruti-suzuki-cars,N/A
+Maruti Suzuki Ertiga Tour,Rs.9.68 - 10.59 Lakh* (View On Road Price),Petrol/CNG,1462 cc,maruti-suzuki-cars,N/A
+Maruti Suzuki Alto Tour H1,Rs.4 - 4.82 Lakh* (View On Road Price),Petrol/CNG,998 cc,maruti-suzuki-cars,N/A
+Maruti Suzuki Eeco Cargo,Rs.5.39 - 6.61 Lakh* (View On Road Price),Petrol/CNG,1197 cc,maruti-suzuki-cars,N/A
+Maruti Suzuki Wagon R tour,Rs.4.99 - 5.89 Lakh* (View On Road Price),Petrol/CNG,998 cc,maruti-suzuki-cars,N/A
+Tata Nexon,Rs.7.32 - 14.05 Lakh* (View On Road Price),Diesel/Petrol/CNG,1497 cc,Tata,"""The Tata Nexon is amongst the best-selling sub-compact SUVs in the country. It is popular for its solid safety, with a full five star safety rating from Bharat NCAP and Global NCAP. Tata Motors updated the looks of the Nexon with a new front and rear design. Sleek LED lighting elements with animations, 16-inch dual tone alloy wheels and interesting colour options make the Nexon visually appealing. The interior of the Nexon 2025 features a brand new dashboard design with improved quality. Rear seat space is a strong point, which is more than adequate for your family. Highlight features of the Nexon 2025 include 10.25-inch touchscreen, 10.25-inch driver’s display, JBL sound system, voice-operated panoramic sunroof, and 360° camera. The Nexon is available with a choice of 1.2-litre turbo-petrol, 1.2-litre turbo-petrol CNG and 1.5-litre diesel engines. The turbo-petrol is offered with a 5- and 6-speed manual, 6-speed AMT and a 7-speed DCT. The diesel is offered with a 6-speed manual and 6-speed AMT."""
+Tata Punch,Rs.5.50 - 9.30 Lakh* (View On Road Price),Petrol/CNG,1199 cc,Tata,"""The Tata Punch 2025 is the most affordable SUV from Tata Motors. It is among the safest small cars in the country, with a 5-star safety rating from Global NCAP. It features a mini-SUV design language and has highlights such as projector headlamps, daytime running lamps, and LED tail lamps. The interior is built-well and has a simple and likeable design. It is a surprisingly spacious car for four adults. In the Punch 2025, features such as a 10.25-inch touchscreen, voice-operated sunroof, automatic climate control, rear AC vents, and cruise control are on offer. It is powered by a 1.2-litre petrol engine which is available with a manual and an automated manual transmission (AMT). CNG is available as an option too."""
+Tata Tiago,Rs.4.57 - 7.82 Lakh* (View On Road Price),Petrol/CNG,1199 cc,Tata,"""The Tata Tiago 2025 is the most affordable Tata car on sale. It is known for its robust build quality and safety. Despite being almost 10 years old, Tata Motors has kept the Tiago fresh with continuous design updates. Full-LED headlamps, 15-inch dual tone alloy wheels, and a shark fin antenna are some highlights. In the Tiago 2025, Tata Motors offers a black-grey dual-tone theme which looks upmarket. It has ample space for a small family of four. Features on the top-spec Tiago include keyless entry, push-button start/stop, cruise control, automatic climate control, a reverse camera and a new 10.25-inch touchscreen. A 1.2-litre, three-cylinder engine is the only option — available in petrol and petrol + CNG versions. Tata motors offers a 5-speed manual and 5-speed automated manual transmission (AMT) in the Tiago."""
+Tata Harrier,Rs.14 - 25.25 Lakh* (View On Road Price),Diesel,1956 cc,Tata,"""The Tata Harrier 2025 is the carmaker’s midsize SUV that has a striking design, solid build quality and a lengthy feature list. The updated design is thoroughly modern with striking colour options and premium LED lighting elements. Inside, the Harrier gets a premium dashboard design with a four-spoke steering wheel with an illuminated Tata logo and variant-specific colour themes. Top features include a 12.3-inch touchscreen infotainment system, powered front seats with ventilation, panoramic sunroof, powered tailgate and a gesture-controlled powered tailgate. The Tata Harrier 2025 is offered with a single 170 PS 2-litre diesel engine, teamed with either a 6-speed manual or a 6-speed torque converter automatic transmission."""
+Tata Altroz,Rs.6.30 - 10.51 Lakh* (View On Road Price),Diesel/Petrol/CNG,1497 cc,Tata,"""A striking design, upmarket cabin and some segment-exclusive features define the 2025 Tata Altroz facelift. It also remains the only model in its segment to offer an expansive list of engine options, including petrol, diesel and CNG."""
+Tata Curvv,Rs.9.66 - 18.85 Lakh* (View On Road Price),Diesel/Petrol,1497 cc,Tata,"""The Tata Curvv 2025 is an SUV-coupe that is based on the Tata Nexon. It sits on the popular compact SUV segment, but sets itself apart with a different design. Since it has an SUV-coupe design, the 2025 Tata Curvv looks unique with its sloping roofline and boasts a striking design. The interior design is shared with the Tata Nexon, which isn’t a bad thing. It has also been updated with a new four-spoke steering wheel and different variant-specific colour themes. Top features onboard the 2025 Tata Curvv include a 10.25-inch digital driver’s display, a 12.3-inch touchscreen, panoramic sunroof, multi-colour ambient lighting, ventilated front seats and level-2 ADAS. The Tata Curvv 2025 is offered with three engine options: a 120 PS 1.2-litre turbo-petrol, a 118 PS 1.5-litre diesel and a 125 PS 1.2-litre T-GDI turbo-petrol engine. All three engines can be had with either a 6-speed manual or a 7-speed DCT."""
+Tata Safari,Rs.14.66 - 25.96 Lakh* (View On Road Price),Diesel,1956 cc,Tata,"""The 2025 Tata Safari is a seven-seater SUV known for it’s style, comfortable ride, premium features and a 5-star safety rating from both Global and Bharat NCAP. The Tata Safari facelift gets a striking and well executed exterior design with modern lighting elements and tasteful colour options. It can be had either as a 6-seater with captain seats or a 7-seater with bench seats for middle row occupants. Top features include ventilated first and second row seats (6-seater version), a 12.3-inch touchscreen infotainment, dual-zone climate control and a panoramic sunroof. Tata Safari 2025 is powered by a 170 PS 2-litre diesel engine. It is available with either a 6-speed manual transmission or a 6-speed torque converter automatic transmission."""
+Tata Harrier EV,Rs.21.49 - 30.23 Lakh* (View On Road Price),Electric,N/A ,Tata,"""The Tata Harrier EV is the carmaker’s flagship electric vehicle that’s based on the standard Harrier. It’s also the first electric Tata to come with all-wheel drive. While the design is largely similar to the Harrier diesel, the EV gets some design differences such as a blanked off grille, aero covers on alloy wheels and tweaked bumpers. The interior is well-laid and looks modern. While the design remains the same as the standard Harrier, the grey and white theme gives it an upmarket look. Top features include a 14.5-inch touchscreen infotainment system, level-2 ADAS, self-parking mode, summon mode and a panoramic sunroof. The Harrier EV gets two battery packs – 65 kWh and 75 kWh – with a claimed range of up to 627 km. All-wheel drive is limited to the larger battery pack."""
+Tata Nexon EV,Rs.12.49 - 17.49 Lakh* (View On Road Price),Electric,N/A ,Tata,"""The 2025 Tata Nexon EV is among the most popular electric vehicles known for its modern design, solid build quality and a comfortable ride. It features an upmarket design with connected lighting elements and 16-inch alloy wheels. Interesting colour options make the Tata Nexon EV stand out from the crowd. Inside, the Tata Nexon EV 2025 gets a thoughtfully laid out dashboard that is made out of good quality materials. They come in different colours depending on the variant you pick. Feature highlights include a 12.3-inch touchscreen infotainment system, a 9-speaker JBL sound system, ventilated front seats and a panoramic sunroof. The 2025 Tata Nexon EV is offered with two battery pack options - 30 kWh and 45kWh - with a claimed range of 275km and 489km respectively."""
+Tata Punch EV,Rs.9.99 - 14.44 Lakh* (View On Road Price),Electric,N/A ,Tata,"""The 2025 Tata Punch EV is the most affordable electric SUV from Tata Motors. It gets a redesigned front design that looks striking with modern LED lighting, which can even show the charge status. There are new dual-tone alloys and some interesting colour options too. Inside, the dashboard is neat and simple and is made out of good quality materials. The two-spoke illuminated steering looks modern and the black and white colour scheme makes the cabin feel airy. Highlight features include a 10.25-inch touchscreen infotainment, a 10.25-inch digital driver’s display, automatic climate control, ventilated front seats, a single-pane sunroof and a 6-speaker sound system. The Tata Punch EV 2025 gets two battery pack options: 25 kWh and 35kWh that have a claimed range of 315km and 421km respectively."""
+Tata Tiago EV,Rs.7.99 - 11.14 Lakh* (View On Road Price),Electric,N/A ,Tata,"""The 2025 Tata Tiago EV is the carmaker’s entry-level electric offering and it shares its underpinnings with its ICE model. Recent updates given to the 2025 Tiago EV’s design makes it relevant and pleasing to look at, despite the Tiago being quite an old car. Interesting and bright colour options further make it stand out from the crowd. Inside, the Tata Tiago EV 2025 gets a black and grey dashboard with good plastic quality. The recent MY2025 update has seen the electric hatch get a new 2-spoke steering wheel and a floating infotainment. Highlight features include a new 10.25-inch touchscreen infotainment system, auto LED headlights, a 4-speaker sound system and semi-digital driver’s display. The 2025 Tata Tiago EV comes with two battery pack options: a 19.2 kWh (claimed range: 223km) and a 24 kWh (claimed range: 293 km)."""
+Tata Tigor,Rs.5.49 - 8.74 Lakh* (View On Road Price),Petrol/CNG,1199 cc,Tata,"""The Tata Tigor 2025 is the carmaker’s sub-4 metre sedan which has been on sale since 2017. It shares its underpinning with the Tiago hatchback and is known for its solid build quality. Tata Motors has given minor tweaks to the 2025 Tigor’s design in the form of a tweaked grille and LED headlights. It continues with the LED DRLs mounted on the bumper and dual-tone alloys. The Tata Tigor is still a good looking car despite its age. Inside, the 2025 Tata Tigor’s dashboard has been updated with a new brown / off-white colour scheme and a 2-spoke steering wheel with the illuminated Tata logo. It can accommodate three reasonably sized adults with decent kneeroom in the back seat. Top features on the 2025 Tata Tigor include a new 10.25-inch touchscreen infotainment system, front seat armrests, a 6-speaker sound system and a semi-digital instrument cluster. The Tata Tigor is offered with two engine options: a 86PS 1.2-litre naturally aspirated petrol and a 73.5 PS 1.2-litre CNG, both paired with either a 5-speed manual or a 5-speed AMT."""
+Tata Curvv EV,Rs.17.49 - 22.24 Lakh* (View On Road Price),Electric,N/A ,Tata,"""The 2025 Tata Curvv EV is an all-electric version of Tata’s SUV-coupe, It looks unique because of its lighting animations, sloping roofline, aerodynamic wheel covers on the alloy wheels and flush door handles with lighting. The dashboard design is simple and straight forward, featuring a floating touchscreen and a four-spoke steering wheel with the illuminated Tata logo. The grey and white upholstery colour scheme looks premium. A 12.3-inch touchscreen infotainment system, panoramic sunroof, multi-colour ambient lighting, a 10.25-inch digital driver’s display and level-2 ADAS are some of the top features of the Tata Curvv 2025. The claimed range of the Tata Curvv stands at 430km (45kWh model) and 502km (55kWh model)."""
+Tata Tigor EV,Rs.12.49 - 13.75 Lakh* (View On Road Price),Electric,N/A ,Tata,"""The 2025 Tata Tigor EV is the electric version of the Tigor, known for its decently spacious cabin and a 4-star safety rating from Global NCAP. Do note that Tata Motors hasn’t updated the Tigor EV 2025, unlike the petrol version. This means it doesn’t get the LED headlights and updated front profile. The interior of the Tata Tigor EV 2025’s dashboard design feels dated. Nevertheless, the black and white dashboard colour scheme makes the cabin feel airy. It also has a usable 316-litre boot. Top features include a 7-inch touchscreen infotainment, a semi-digital instrument cluster, automatic climate control, and a superb sounding 8-speaker Harman Kardon sound system. The Tata Tigor EV 2025 gets a 26 kWh battery pack that powers a 75 PS e-motor. This setup delivers an ARAI-claimed range of 315 km."""
+Tata Yodha Pickup,Rs.6.95 - 7.50 Lakh* (View On Road Price),Diesel,2956 cc,Tata,N/A
+Tata Tiago NRG,Rs.6.68 - 8.10 Lakh* (View On Road Price),Petrol/CNG,1199 cc,Tata,N/A
+Kia Sonet,Rs.7.30 - 14 Lakh* (View On Road Price),Diesel/Petrol,1493 cc,Kia,"""The Kia Sonet is a stylish, feature-loaded sub-4metre SUV that slots below the Kia Syros in the brand’s line up. Available in multiple engine and transmission options including a diesel and a powerful turbo-petrol the Sonet is ideal for urban buyers who want a modern, affordable and fun to drive subcompact SUV, provided rear seat space is not a top priority."""
+Kia Seltos,Rs.10.79 - 19.81 Lakh* (View On Road Price),Diesel/Petrol,1497 cc,Kia,"""The Kia Seltos is known for its European car-like design and an upmarket cabin that is feature loaded. Its sharp lines, a well proportionate design and modern LED lighting elements, giving the Kia Seltos a classy look. The cabin is upmarket and comes in different colour schemes depending on the variant. It’s also spacious, where it can seat 5 occupants in decent comfort. Top features of the Seltos include a head-up display, ventilated front seats, dual 10.25-inch displays and level-2 ADAS. The Kia Seltos is offered with three engine options: a 1.5-litre naturally aspirated petrol, diesel and turbo-petrol. It can be paired with either manual, automatic or a clutchless manual transmission (turbo-petrol only)."""
+Kia Carens,Rs.10.99 - 12.77 Lakh* (View On Road Price),Diesel/Petrol,1497 cc,Kia,N/A
+Kia Syros,Rs.8.67 - 15.94 Lakh* (View On Road Price),Diesel/Petrol,1493 cc,Kia,"""The Kia Syros is one of the most premium sub-4 metre SUVs in India. While its quirky design might not suit all buyers, the Syros 2025 stands apart with its long list of upmarket features and segment-best rear seat experience. It offers turbo-petrol and diesel engine options, and comes equipped with top-notch safety features."""
+Kia Carnival,Rs.59.42 Lakh* (View On Road Price),Diesel,2151 cc,Kia,The Kia Carnival is a premium 3-row MPV offering by the Korean manufacturer in India. The current model is the facelifted fourth-generation model available overseas. It is offered with a diesel engine mated exclusively with an 8-speed automatic gearbox.
+Kia Carens Clavis,Rs.11.08 - 20.71 Lakh* (View On Road Price),Diesel/Petrol,1497 cc,Kia,"""The 2025 Kia Carens Clavis is basically a heavily refreshed version of the Carens. The premium MPV will slot above the Kia Carens in the carmaker’s lineup. It boasts a sharp design which follows Kia’s new design language with triangular LED headlights, 17-inch alloy wheels and connected LED tail lights. The interior features a thoroughly modern dashboard with dual 12.3-inch digital displays and a two-spoke steering wheel. It can be had either as a 6- or a 7-seater. Top features include a panoramic sunroof, ventilated front seats, an 8-speaker Bose sound system, and level-2 ADAS. The Kia Carens Clavis can be had with three engine options: a 1.5-litre diesel, a 1.5-litre turbo-petrol and a 1.5-litre naturally aspirated petrol engine."""
+Kia EV6,Rs.65.97 Lakh* (View On Road Price),Electric,N/A ,Kia,"""The Kia EV6 recently got its first major facelift, featuring sharper looks with sleeker headlights and triangular LED DRLs. Inside, it comes with a new steering wheel and curved trim housing two digital displays. The EV6 is powered by an 84 kWh battery pack offering a claimed range of over 650 km."""
+Kia Carens Clavis EV,Rs.17.99 - 24.49 Lakh* (View On Road Price),Electric,N/A ,Kia,N/A
+Kia EV9,Rs.1.30 Cr* (View On Road Price),Electric,N/A ,Kia,The Kia EV9 is the flagship EV from the Korean manufacturer. It has a futuristic design with LED lights all around and aggressive design elements. This electric SUV comes with a 99.8 kWh battery pack which gives it a claimed range of up to 561 km.
+Toyota Fortuner,Rs.33.65 - 48.85 Lakh* (View On Road Price),Diesel/Petrol,2755 cc,toyota-cars,"""The Toyota Fortuner is one of the most beloved SUVs in India, known for its reliability and powerful engine options, including a 2.7-litre petrol and a 2.8-litre diesel engine. It offers an optional four-wheel-drive setup and can comfortably accommodate up to 7 passengers, making it the perfect choice for family trips, even to destinations beyond where the roads end."""
+Toyota Innova Crysta,Rs.18.66 - 25.27 Lakh* (View On Road Price),Diesel,2393 cc,toyota-cars,"""The Toyota Innova Crysta is an MPV that gets the basics right with its comfortable cabin that can seat up to 7 occupants, comfortable ride and a reliable diesel engine. No major updates are expected this year for the Toyota Innova Crysta 2025, but one can expect special editions closer to the festive season later this year."""
+Toyota Vellfire,Rs.1.20 - 1.30 Cr* (View On Road Price),Petrol,2487 cc,toyota-cars,"""The Toyota Vellfire is a 7-seater luxury MPV and the carmaker’s flagship in India. The Vellfire is powered by a 2.5-litre hybrid engine paired with an automatic gearbox only. With its bold and futuristic design, the Vellfire stands out among other MPVs and comes loaded with premium features. While it’s on the pricier side due to import taxes, for those seeking a blend of style, comfort and reliability, there aren’t many options that match up to the Vellfire."""
+Toyota Urban Cruiser Hyryder,Rs.10.95 - 19.76 Lakh* (View On Road Price),Petrol/CNG,1490 cc,toyota-cars,"""The Toyota Hyryder is a compact SUV that is offered with mild hybrid, strong hybrid, and petrol+CNG powertrain options. The mild-hybrid powertrain even comes with an optional all-wheel-drive (AWD) setup, making it more capable on rough roads. It has a sleek body style and is equipped with a loaded feature suite."""
+Toyota Land Cruiser 300,Rs.2.16 - 2.25 Cr* (View On Road Price),Diesel,3346 cc,toyota-cars,N/A
+Toyota Glanza,Rs.6.39 - 9.15 Lakh* (View On Road Price),Petrol/CNG,1197 cc,toyota-cars,"""The Toyota Glanza is essentially Toyota's version of the Maruti Baleno. It comes packed with technology, featuring a 9-inch touchscreen infotainment system and a heads-up display. The Glanza is powered by a 1.2-litre petrol engine and also offers a CNG powertrain option that has a claimed fuel efficiency of more than 30 km/kg."""
+Toyota Innova Hycross,Rs.18.16 - 30.83 Lakh* (View On Road Price),Petrol,1987 cc,toyota-cars,"""The Toyota Innova Hycross is one of the most popular MPVs in the country and is known for its spaciousness, premium cabin experience and practicality. This 7-8 seater MPV is available in both petrol and a more fuel-efficient, but expensive, hybrid option. Also, this car is offered only with an automatic transmission."""
+Toyota Hilux,Rs.28.02 - 35.37 Lakh* (View On Road Price),Diesel,2755 cc,toyota-cars,Toyota Hilux is a 5-seater 4X4 pickup truck based on the same platform as the Fortuner. The Hilux is a rugged pickup known for its offroad nature and versatility. It gets a spacious cabin with the practicality of a big boot for more space. It comes only with a 2.8-litre diesel engine with both manual and automatic transmissions.
+Toyota Taisor,Rs.7.21 - 12.06 Lakh* (View On Road Price),Petrol/CNG,1197 cc,toyota-cars,"""The Toyota Taisor, a compact SUV based on the Maruti Suzuki Fronx, comes at a slightly higher price point in some variants but features a distinctive design and includes a petrol-CNG variant. The Taisor has a spacious and feature-rich interior, and a range of safety features, making it well-suited as both a city-friendly car and a comfortable highway cruiser."""
+Toyota Camry,Rs.47.48 Lakh* (View On Road Price),Petrol,2487 cc,toyota-cars,"""The new-generation Toyota Camry has undergone significant changes, be it its design, interior, and features. It now comes with an updated 2.5-litre petrol-hybrid powertrain, delivering a combined output of up to 230 PS. Its safety kit now also includes a complete suite of ADAS."""
+Toyota Fortuner Legender,Rs.41.54 - 46.75 Lakh* (View On Road Price),Diesel,2755 cc,toyota-cars,"""The Toyota Fortuner Legender is a full-size, 7-seater SUV that offers impressive performance thanks to a powerful diesel engine, paired with a 6-speed automatic transmission. It is available in both 4X2 and 4X4 drivetrain options. The features list is decent but feels lacking for the price and the ride can be a bit harsh on rough roads. If you want a big, tough SUV with an imposing presence and Toyota’s legendary reliability, look no further than the Fortuner Legender."""
+Toyota Rumion,Rs.10.44 - 13.62 Lakh* (View On Road Price),Petrol/CNG,1462 cc,toyota-cars,"""The Toyota Rumion is a 7-seater MPV (multi-purpose vehicle) that offers a good balance between practicality and comfort. Essentially a rebadged version of the Maruti Ertiga, the Rumion comes with a mild-hybrid engine that can be had with an optional CNG kit. Its efficient performance makes it a strong option for those seeking a family commuter for their daily runs and long journeys as well."""
+Hyundai Creta,Rs.10.73 - 20.20 Lakh* (View On Road Price),Diesel/Petrol,1497 cc,Hyundai,"""The Hyundai Creta, Hyundai’s bestseller in India and the top performer in compact SUV sales for an extended period received a comprehensive update at the start of the year. Renowned for its extensive feature list, the Creta is provided with options of a petrol engine, a turbo-petrol engine, and a diesel engine, catering to a wide range of driving preferences and needs. It also comes loaded with the latest features and includes an extensive suite of autonomous driver assistance features to improve safety."""
+Hyundai Venue,Rs.7.26 - 12.46 Lakh* (View On Road Price),Diesel/Petrol,1493 cc,Hyundai,"""The Hyundai Venue is a popular subcompact SUV that boasts an eye-pleasing design, decent space for four occupants and a feature-loaded package. It comes with modern-day elements like LED headlights, LED fog lamps and connected LED tail lights. The exterior blends beautifully with the interior featuring a dual-screen setup on the dashboard, a 4-spoke steering wheel and made out of high quality materials. Top features onboard include a digital driver’s display, a single-pane sunroof, Level-1 ADAS and a wireless phone charger. Hyundai offers the Venue with three engine options: a 1.2-litre NA petrol, a 1-litre turbo-petrol and a 1.5-litre diesel. Only the turbo-petrol engine gets an optional automatic transmission."""
+Hyundai i20,Rs.6.87 - 10.43 Lakh* (View On Road Price),Petrol,1197 cc,Hyundai,N/A
+Hyundai Exter,Rs.5.68 - 9.61 Lakh* (View On Road Price),Petrol/CNG,1197 cc,Hyundai,N/A
+Hyundai Verna,Rs.10.69 - 16.98 Lakh* (View On Road Price),Petrol,1497 cc,Hyundai,"""The Hyundai Verna is a compact sedan which is known for its futuristic and unconventional design language, which can be a hit or a miss. The Verna comes loaded with all the features one would expect from a Hyundai and also features level 2 advanced driver assistance systems (ADAS). Apart from a naturally aspirated petrol engine, the Verna also gets the option of a 1.5-litre turbo-petrol engine, which delivers the highest output in its segment."""
+Hyundai Aura,Rs.5.98 - 8.42 Lakh* (View On Road Price),Petrol/CNG,1197 cc,Hyundai,"""The Hyundai Aura is an entry-level, subcompact sedan that offers a good blend of comfort and convenience features while being equipped with the necessary safety kit. It comes with a petrol engine which can be paired with both manual and automatic options, and also gets a choice of a factory-fitted CNG kit."""
+Hyundai Alcazar,Rs.14.47 - 21.10 Lakh* (View On Road Price),Diesel/Petrol,1493 cc,Hyundai,"""The Hyundai Alcazar is a three-row midsize SUV that is based on the Hyundai Creta. Its facelift comes packing a heavily revised exterior and interior. With two powerful engine options: a 1.5-litre turbo-petrol and a 1.5-litre diesel, a seating option ranging from 6 seats to 7 seats, and a feature-packed cabin, the Alcazar is now an even better all-rounder."""
+Hyundai Tucson,Rs.27.32 - 33.64 Lakh* (View On Road Price),Diesel/Petrol,1999 cc,Hyundai,N/A
+Hyundai Creta Electric,Rs.18.02 - 24.55 Lakh* (View On Road Price),Electric,N/A ,Hyundai,"""The Hyundai Creta EV is an all-electric compact SUV that gets two battery pack options, both of which have a claimed range of over 350 km. It gets a similar design as the standard Creta with some EV-specific design elements, including a redesigned grille and aerodynamically styled alloy wheels."""
+Hyundai Creta N Line,Rs.17.83 - 20.09 Lakh* (View On Road Price),Petrol,1482 cc,Hyundai,N/A
+Hyundai Venue N Line,Rs.11.11 - 12.81 Lakh* (View On Road Price),Petrol,998 cc,Hyundai,"""The Hyundai Venue N Line is the sportier version of the standard Venue, featuring cosmetic revisions inside and out. It’s designed for those who want a peppier drive experience. It is powered by the Venue’s most potent 1-litre turbo-petrol engine and gets a well-equipped cabin to match."""
+Hyundai Grand i10 Nios,Rs.5.47 - 7.92 Lakh* (View On Road Price),Petrol/CNG,1197 cc,Hyundai,N/A
+Hyundai i20 N-Line,Rs.9.14 - 11.60 Lakh* (View On Road Price),Petrol,998 cc,Hyundai,"""The Hyundai i20 N Line is the sportier-looking version of the i20 premium hatchback. It offers a peppy 1-litre turbo-petrol engine and a louder exhaust system, which make the driving experience more enjoyable. Performance upgrades aside, it also packs all the tech and safety features you would want from the sportier-looking hatchback, including a touchscreen and six airbags."""
+Hyundai IONIQ 5,Rs.46.05 Lakh* (View On Road Price),Electric,N/A ,Hyundai,The Hyundai Ioniq 5 is an all-electric SUV which is also currently the flagship offering from the Korean automaker in India. The Ioniq 5 has a sharp design which demands attention and turns heads. It also offers a tech-loaded cabin and ample space for taller people. The Ioniq 5 offers a claimed ARAI range of 631 km.
+Mahindra Bolero,Rs.7.99 - 9.69 Lakh* (View On Road Price),Diesel,1493 cc,Mahindra,N/A
+Mahindra Scorpio N,Rs.13.20 - 24.17 Lakh* (View On Road Price),Diesel/Petrol,2198 cc,Mahindra,"""Mahindra Scorpio N is amongst the most popular 7-seater SUVs in India, known for its tough build quality, reliable engines and off-road capabilities. The 2025 Scorpio N has a simple, old-school SUV design blended with modern elements such as projector headlights, LED daytime running lamps, 18-inch alloy wheels and vertically-stacked tail lamps. The Scorpio N Carbon is available for those who prefer an all-black look. Interiors of the Scorpio N blend functionality and luxury with a brown-black theme and a simple, purposeful design. The Scorpio N is available in 6-seater and 7-seater versions. Features highlights include keyless entry, cruise control, 8-inch touchscreen, Sony sound system, Level-2 ADAS, and front seat ventilation. Engine options for the Scorpio N include a 2.0-litre turbo-petrol and 2.2-litre diesel, both of which are available with a 6-speed manual and 6-speed automatic. Scorpio N 4x4 is available with the diesel engine only in select variants."""
+Mahindra XUV700,Rs.13.66 - 23.71 Lakh* (View On Road Price),Diesel/Petrol,2198 cc,Mahindra,"""The XUV700 is a flagship SUV in Mahindra’s lineup that offers commanding road presence, a spacious and feature-rich cabin. It comes with powerful petrol and diesel engine options, while the diesel automatic variant also gets an optional all-wheel-drive (AWD) drivetrain."""
+Mahindra Thar,Rs.9.99 - 16.99 Lakh* (View On Road Price),Diesel/Petrol,2184 cc,Mahindra,N/A
+Mahindra Scorpio,Rs.12.98 - 16.70 Lakh* (View On Road Price),Diesel,2184 cc,Mahindra,"""The Scorpio is one of Mahindra's oldest nameplates in India. It has a bold and boxy design which gives it a menacing look. It comes with a diesel engine mated with a manual gearbox that drives the rear wheels. It is known for its ruggedness and is fairly capable on all types of roads, making it a versatile SUV that can seat up to 7 passengers."""
+Mahindra XUV 3XO,Rs.7.28 - 14.40 Lakh* (View On Road Price),Diesel/Petrol,1498 cc,Mahindra,"""The Mahindra XUV 3XO is a refreshed version of the popular XUV300, and stands out in the crowded sub-compact SUV segment. It features bold exterior looks that grab attention, a modern and high-quality interior that's exceptionally spacious, and is loaded with features. The 3XO offers a practical, well-rounded option for those in search of a small family SUV."""
+Mahindra Thar ROXX,Rs.12.25 - 22.06 Lakh* (View On Road Price),Diesel/Petrol,2184 cc,Mahindra,"""The Mahindra Thar Roxx 2025 is a 5-seater family SUV that comes loaded with features and also promises strong off-road capability. It blends classic boxy SUV styling with modernities like LED headlights, LED DRLs and alloy wheels as large as 19-inches. Inside, the Thar Roxx contrasts its old school styling with a modern and premium interior that’s available in a white-black colour with the option of a brown-black interior with the 4x4 models. The features list is long and includes a 10.25-inch touchscreen, 9-speaker Harman Kardon music system, panoramic sunroof and ventilated front seats. The Thar Roxx is available with a choice of 2-litre turbo-petrol and 2.2-litre diesel engines. Both engines get a 6-speed manual transmission as standard with the option of a 6-speed automatic transmission. All versions come with rear-wheel drive as standard but the diesel is also available with 4x4."""
+Mahindra BE 6,Rs.18.90 - 27.79 Lakh* (View On Road Price),Electric,N/A ,Mahindra,"""It is one of the most recent new-age Mahindra EVs, which gets aggressive styling and equally potent powertrain options. It gets two battery pack options, which have a claimed range of more than 500 km. It gets a rear-axle-mounted electric motor, which facilitates rear-wheel-driven fun."""
+Mahindra Bolero Neo,Rs.8.49 - 10.49 Lakh* (View On Road Price),Diesel,1493 cc,Mahindra,N/A
+Mahindra XEV 9e,Rs.21.90 - 31.25 Lakh* (View On Road Price),Electric,N/A ,Mahindra,"""The Mahindra XEV 9e is an SUV coupe and one of the newest and most advanced EVs from Mahindra. It comes packed with features, including a 3-screen setup on the dashboard, 16 speakers, and an augmented reality (AR)-based heads-up display. It has two battery pack options, both of which have a claimed range of more than 500 km."""
+Mahindra Bolero Camper,Rs.9.22 - 10 Lakh* (View On Road Price),Diesel,2523 cc,Mahindra,N/A
+Mahindra Marazzo,Rs.14.06 - 16.38 Lakh* (View On Road Price),Diesel,1497 cc,Mahindra,N/A
+Mahindra XUV400 EV,Rs.15.49 - 17.69 Lakh* (View On Road Price),Electric,N/A ,Mahindra,N/A
+Mahindra Bolero Neo Plus,Rs.10.77 - 11.80 Lakh* (View On Road Price),Diesel,2184 cc,Mahindra,N/A
+Mahindra Bolero Pik-Up,Rs.9.05 - 9.86 Lakh* (View On Road Price),Diesel,2523 cc,Mahindra,N/A
+Honda Amaze,Rs.7.41 - 10 Lakh* (View On Road Price),N/A,1199 cc,Honda,"""The Honda Amaze is a subcompact sedan that combines Honda's trusted brand value with elegant design, inside and out. Powered by a 90 PS 1.2-litre naturally aspirated petrol engine, it stands as the most powerful car in its segment. The Amaze is the only subcompact sedan in India equipped with ADAS."""
+Honda City,Rs.11.95 - 16.07 Lakh* (View On Road Price),N/A,1498 cc,Honda,"""The Honda City with its elegant design, an upmarket cabin that is comfortable and a trusty petrol engine make it a great all rounder in its segment. The 2025 Honda City could get model year updates or special editions later this year to keep it relevant in the market."""
+Honda Elevate,Rs.11 - 16.15 Lakh* (View On Road Price),N/A,1498 cc,Honda,"""The Honda Elevate is an all-rounder known for its simple design, a well-appointed interior and a comfortable ride. Its boxy design combined with modem design touches like LED lighting and dual-tone alloy wheels makes the Elevate a neat looking Honda. The cabin looks and feels premium with good quality plastics. It’s also spacious and can seat 5 occupants in decent comfort. Top features include a 10.25-inch touchscreen infotainment, a 7-inch semi-digital instrument cluster, single-pane sunroof and level-2 ADAS. It gets a sole 1.5-litre naturally aspirated petrol engine, paired with a manual and CVT. The Elevate can also be had with a government approved CNG kit fitted at the dealership."""
+Honda City Hybrid,Rs.19.48 Lakh* (View On Road Price),N/A,1498 cc,Honda,N/A
+Honda Amaze 2nd Gen,Rs.6.98 - 7.80 Lakh* (View On Road Price),N/A,1199 cc,Honda,"""The Honda Amaze is a subcompact sedan that combines Honda's trusted brand value with elegant design along with segment-best features like ADAS. Powered by a smooth and refined four-cylinder petrol engine, it is the most powerful car in its segment. The Honda Amaze 2025 is sold alongside the second-generation model."""
+MG Windsor EV,Rs.12.65 - 18.39 Lakh* (View On Road Price),Electric,N/A ,MG,"""The MG Windsor EV is the best selling electric vehicle in India. It blends quirky looks along with a spacious cabin and plentiful features. It features a quirky design that includes modern elements like connected lighting elements, 18-inch alloy wheels, and flush-fitting door handles. The MG Windsor EV’s cabin boasts a minimalist look with a large 15.6-inch touchscreen dominating the dashboard. It’s also spacious and the 135-degree reclining rear seat angle ensures occupants have ample space. Features onboard include a panoramic glass roof, ventilated front seats, 256-colour ambient lighting and level-2 ADAS. The MG Windsor EV is available with a 38kWh or a 52.9 kWh battery pack that has a claimed range of 332km and 449km, respectively."""
+MG Cyberster,Rs.75 Lakh* (View On Road Price),Electric,N/A ,MG,"""The MG Cyberster is an upcoming two-door electric roadster that has striking looks and a fighter-jet like cockpit. It also offers bonkers performance, courtesy of the dual motors putting out 510 PS and 725 Nm. The Cyberster is likely to be the most affordable two-door sports car in the country as it could be offered with the battery rental scheme."""
+MG Hector,Rs.14 - 20.76 Lakh* (View On Road Price),Diesel/Petrol,1956 cc,MG,"""The MG Hector is the automaker's debut product in India. It is a mid-size SUV available in a 5-seater layout and is known for its premium design and tech-loaded cabin. It also boasts a large 14-inch touchscreen, connected car technology, and Level 2 ADAS. The Hector is offered in both petrol and diesel engine options."""
+MG Comet EV,Rs.7.50 - 9.56 Lakh* (View On Road Price),Electric,N/A ,MG,"""The MG Comet is a two-door electric car that turns heads wherever it goes with its small size and cute, unique styling. One of the most affordable electric cars in India, the Comet seats four passengers despite its size. It offers decent levels of practicality and versatility with its premium-looking interior and comfortable drive experience."""
+MG Astor,Rs.9.65 - 16.24 Lakh* (View On Road Price),Petrol,1498 cc,MG,N/A
+MG M9,Rs.69.90 Lakh* (View On Road Price),Electric,N/A ,MG,"""The MG M9 is a Carnival-sized premium electric MPV which is also known as the Maxus Mifa 9 in international markets. The MG M9 features a typical van-like design and is available in a 3-row seating configuration, with the capacity to accommodate up to 7 passengers. The global version comes with a 90 kWh battery pack offering a claimed range of up to 430 km."""
+MG Gloster,Rs.38.33 - 43.16 Lakh* (View On Road Price),Diesel,1996 cc,MG,The MG Gloster is a full-size SUV available in both 6- and 7-seater configurations. What sets it apart are its enormous dimensions and powerful diesel engine options. MG's flagship SUV in India also promises a premium interior experience and is tech-savvy. MG also offers the Gloster with an optional 4WD (4-wheel-drive) drivetrain.
+MG ZS EV,Rs.17.99 - 20.50 Lakh* (View On Road Price),Electric,N/A ,MG,"""The MG ZS EV is the carmaker's most premium 5-seater electric offering in India, featuring advanced technology like ADAS, a dual-screen setup on the dashboard, and a panoramic sunroof. It comes with a single battery pack option that offers a claimed range of over 450 km on a full charge."""
+MG Hector Plus,Rs.16.05 - 22.75 Lakh* (View On Road Price),Diesel/Petrol,1956 cc,MG,"""The MG Hector Plus, an elongated 6/7-seater version of the Hector SUV, is designed for large families. It offers diesel and turbo-petrol engine options, with the diesel paired with a manual transmission and the turbo-petrol equipped with both manual and automatic gearbox options, ensuring inclusivity for diverse driving needs."""
+Skoda Kylaq,Rs.7.55 - 12.80 Lakh* (View On Road Price),N/A,999 cc,Skoda,"""The Skoda Kylaq marks the Czech carmaker's debut in India's crowded subcompact SUV segment. Along with Skoda’s signature design, the Kylaq boasts a feature-rich cabin and a powerful 1-litre turbo-petrol engine, offered with both manual and automatic transmission options."""
+Skoda Slavia,Rs.10 - 17.70 Lakh* (View On Road Price),N/A,1498 cc,Skoda,"""The Skoda Slavia is compact sedan with sleek, modern looks and high safety rating. It comfortably seats four passengers and comes well equipped, though interior quality can feel a bit underwhelming. Available with two turbo petrol engine options, the Slavia is known for its sporty performance and fun-to-drive experience, especially with the larger engine of the two. Sportier looking versions of the Slavia like the Monte Carlo and Sportline editions further add to its appeal."""
+Skoda Kushaq,Rs.10.61 - 18.43 Lakh* (View On Road Price),N/A,1498 cc,Skoda,"""The Skoda Kushaq is the entry-level SUV from the Czech carmaker in India. With premium interiors and modern features, this 4-seater compact SUV makes for a great urban family car. It offers good city drivability and brisk highway performance, with two turbo-petrol engines and three transmission options. Besides, its 5-star Global NCAP safety rating ensures peace of mind."""
+Skoda Kodiaq,Rs.39.99 - 45.96 Lakh* (View On Road Price),N/A,1984 cc,Skoda,"""The Skoda Kodiaq is back in its second-generation avatar, now more modern and tech-loaded than ever. A well-balanced ride and handling setup, paired with a strong 2-litre turbo-petrol engine makes it a fun 7-seater SUV if you intend to get behind the wheel."""
+Skoda Octavia RS,Rs.49.99 Lakh* (View On Road Price),Automatic,1984 cc,Skoda,"""The Skoda Octavia vRS is a sedan known for its sporty performance and handling characteristics. Although it retains the classic Skoda look, it makes a bold statement with blacked-out accents, an aggressive lowered stance, and a heart-pounding 265PS turbo-petrol engine under the hood."""
+Jeep Compass,Rs.17.73 - 30.50 Lakh* (View On Road Price),N/A,1956 cc,Jeep,Jeep Compass offers a solid off-roading experience paired with a premium interior and a solid road presence. It comes with a 2-litre diesel engine that outputs 172 PS and 350 Nm with a 6-speed manual or 9-speed automatic. It comes with 2WD or 4WD options.
+Jeep Meridian,Rs.23.33 - 36.21 Lakh* (View On Road Price),N/A,1956 cc,Jeep,"""The Jeep Meridian is essentially a 3-row version of the Jeep Compass, available in both 5- and 7-seater configurations. It boasts a feature-rich cabin and delivers a comfortable ride quality. Powered by a 170 PS 2.0-litre diesel engine, it offers the choice of either front-wheel drive (FWD) or all-wheel drive (AWD) configurations."""
+Jeep Wrangler,Rs.64.08 - 67.81 Lakh* (View On Road Price),N/A,1995 cc,Jeep,N/A
+Jeep Grand Cherokee,Rs.63 Lakh* (View On Road Price),N/A,1995 cc,Jeep,N/A
+Renault Triber,Rs.5.76 - 8.60 Lakh* (View On Road Price),N/A,999 cc,Renault,"""The Renault Triber is India’s most affordable 7-seater crossover MPV, designed to turn heads with its bold styling. Inside, it offers a premium experience with a dual-tone black and beige cabin, complemented by modern features. Powering the Triber is a 1-litre naturally aspirated petrol engine, tuned to deliver dependable performance for family trips across town or out on the highway."""
+Renault KWID,Rs.4.30 - 5.90 Lakh* (View On Road Price),N/A,999 cc,Renault,"""The Renault Kwid is an entry-level hatchback with a rugged SUV-inspired design. Powered by a 1-litre petrol engine, it offers both manual and automatic transmission options. Despite its affordable price, the Kwid gets a lot of comfort features and decent amount of safety tech, making it a practical choice for those seeking a compact and efficient vehicle."""
+Renault Kiger,Rs.5.76 - 10.34 Lakh* (View On Road Price),N/A,999 cc,Renault,N/A
+Nissan Magnite,Rs.5.62 - 10.76 Lakh* (View On Road Price),Petrol/CNG,999 cc,Nissan,"""The 2024 Nissan Magnite is a 5-seater subcompact SUV that comes at a much affordable price point than its competitors. It packs all the features you need for everyday use, and the facelift brings a refreshing new look to its styling. The Magnite offers both naturally aspirated and turbo-petrol engines, available with manual and automatic transmissions."""
+Nissan X-Trail,Rs.48.20 Lakh* (View On Road Price),Petrol,1498 cc,Nissan,N/A
+Volkswagen Virtus,Rs.11.16 - 18.73 Lakh* (View On Road Price),N/A,1498 cc,Volkswagen,"""The Volkswagen Virtus, which sports a timeless design in its segment, is known for its fun to drive nature. Equipped with all the necessary modern features, it offers two turbo-petrol engine options, delivering an exhilarating driving experience. The Virtus is perfect for those who prioritize looks and performance above all else."""
+Volkswagen Taigun,Rs.11.39 - 19.15 Lakh* (View On Road Price),N/A,1498 cc,Volkswagen,"""The Volkswagen Taigun is known for its timeless design, a solid build quality and a fun to drive experience. It boasts a commendable 5-star safety rating from Global NCAP. The VW Taigun boasts a classy design that will stand the test of time well. The Chrome Line gets shiny chrome touches, while the GT trims look sporty with blacked out elements. Its interior design is neat and simple with all the controls laid out logically. The Taigun is also reasonably spacious, occupying four occupants in good comfort. Top features include powered front seats with ventilation, a 10.1-inch touchscreen infotainment system, 8-inch digital driver’s display and a single-pane sunroof. It is offered with a choice of either a 1-litre or a 1.5-litre turbo-petrol engine, both available with a choice of manual or automatic transmissions."""
+Volkswagen Golf GTI,Rs.50.91 Lakh* (View On Road Price),Automatic,1984 cc,Volkswagen,The Volkswagen Golf GTI delivers the best of both worlds. It’s a capable daily driver and will plaster a smile on your face when you’re pushing it hard. Limited number of units means it scores high on the exclusivity factor.
+Volkswagen Tiguan R-Line,Rs.45.73 Lakh* (View On Road Price),N/A,1984 cc,Volkswagen,"""Volkswagen brings in the new generation of the Tiguan in the top-spec R-Line version. Sportier bumpers, large wheels and a racy interior sets this one apart. It is a full import, which explains the high price."""
+Citroen Aircross,Rs.8.29 - 13.69 Lakh* (View On Road Price),Petrol,1199 cc,Citroen,N/A
+Citroen C3,Rs.4.80 - 10.21 Lakh* (View On Road Price),Petrol/CNG,1199 cc,Citroen,N/A
+Citroen Basalt,Rs.7.95 - 14.10 Lakh* (View On Road Price),Petrol,1199 cc,Citroen,"""The Citroen Basalt is a stylish, affordable SUV-coupe that has been launched at an attractive introductory price of Rs 7.99 lakh. Based on the C3 Aircross SUV, the Basalt comes in a 5-seater configuration and offers a choice of two petrol engines, along with manual and automatic transmission options."""
+Citroen C5 Aircross,Rs.37.32 Lakh* (View On Road Price),Diesel,1997 cc,Citroen,N/A
+Citroen eC3,Rs.12.90 - 13.41 Lakh* (View On Road Price),Electric,N/A ,Citroen,N/A
+Aston Martin Vantage,Rs.3.77 Cr* (View On Road Price),N/A,3998 cc,Aston_Martin,N/A
+Aston Martin DB12,Rs.4.34 Cr* (View On Road Price),N/A,3982 cc,Aston_Martin,N/A
+Aston Martin DBX,Rs.3.82 - 4.38 Cr* (View On Road Price),N/A,3982 cc,Aston_Martin,N/A
+Aston Martin Vanquish,Rs.8.37 Cr* (View On Road Price),N/A,5203 cc,Aston_Martin,N/A
+Audi A4,Rs.46.25 - 55.11 Lakh* (View On Road Price),N/A,1984 cc,Audi,"""The Audi A4 gives you classy looks, premium quality interiors and ride comfort finely tuned for the Indian roads. The A4 is powered by a 2-litre turbo petrol engine that makes 204 PS and 320 Nm with 7-speed DCT. It also comes with a 12V hybrid system that offers regenerative braking."""
+Audi Q7,Rs.86.14 - 95.03 Lakh* (View On Road Price),N/A,2995 cc,Audi,"""The Audi Q7 is one of the most luxurious SUVs from the German manufacturer in India. It has 7 seats and a firecracker V6 mill, the combination of which is suitable for families and enthusiasts alike. It gets an AWD setup, which can take you to places even where the roads end."""
+Audi Q3,Rs.43.07 - 52.98 Lakh* (View On Road Price),N/A,1984 cc,Audi,"""The Audi Q3 is the entry-level SUV in the German automaker’s lineup in India. It looks sporty from the outside, offers a well built cabin on the inside, and most importantly, Audi’s badge value in the price of some full size mass market SUVs. The Q3 is being offered with a 190 PS 2-litre turbo-petrol engine and also gets Audi’s Quattro all-wheel drive as standard."""
+Audi A6,Rs.63.74 - 69.89 Lakh* (View On Road Price),N/A,1984 cc,Audi,Audi A6 is a head-turner sedan that drives as good as it looks. It comes with a 10-inch touchscreen and a 16-speaker Bang and Olufsen sound system. The Audi A6 comes with a 2-litre turbo-petrol engine outputting 265 PS and 370 Nm and a 7-speed DCT.
+Audi Q5,Rs.64.74 - 69.86 Lakh* (View On Road Price),N/A,1984 cc,Audi,"""The Audi Q5 is a 5-seater premium compact SUV which offers a sportier design, spacious and practical cabin ideal for family luxury, and all modern amenities. All of this comes paired with a powerful 265 PS 2-litre turbo-petrol engine, and all this power is delivered to all four wheels via a 7-speed dual clutch transmission."""
+Audi Q8,Rs.1.10 Cr* (View On Road Price),N/A,2995 cc,Audi,"""The Audi Q8 is the flagship luxury SUV in Audi’s lineup. With the recent facelift, the Audi Q8 brings subtle yet noteworthy design enhancements. It offers a tech loaded cabin and spacious seating, all combined with the powerful 340 PS 3-litre turbo-petrol V6 engine. Power is transmitted to all four wheels (AWD) through an 8-speed automatic transmission, and the Q8 can sprint from nought to 100 kmph in just 5.6 seconds."""
+Audi RS e-tron GT,Rs.1.95 Cr* (View On Road Price),N/A,N/A ,Audi,N/A
+Audi Q8 e-tron,Rs.1.15 - 1.27 Cr* (View On Road Price),N/A,N/A ,Audi,The Q8 e-tron is Audi’s flagship all-electric luxury SUV in India which is being offered in both SUV and Sportback (SUV-coupe) body style options. The e-tron SUV features a tech-loaded cabin and delivers exhilarating performance through its dual-motor all-wheel-drive (AWD) setup along with a claimed range of up to 600 km.
+Audi Q3 Sportback,Rs.52.98 - 53.55 Lakh* (View On Road Price),N/A,1984 cc,Audi,N/A
+Audi RS Q8,Rs.2.32 Cr* (View On Road Price),N/A,3998 cc,Audi,"""The RS Q8 Performance is the German carmaker’s most powerful SUV offering in India that comes with a 4-litre twin-turbo V8 engine that can sprint from 0-100 kmph in 3.6 seconds, before clocking an electronically limited top speed of 305 kmph. Not only is this Audi SUV powerful, but it also comes with a lot of features including an LED headlight with laser technology for high beams, connected OLED tail lights, a 12.3-inch driver’s display, a massive touchscreen, a panoramic sunroof, a wireless phone charger and ADAS."""
+Audi e-tron GT,Rs.1.72 Cr* (View On Road Price),N/A,N/A ,Audi,"""The Audi e-tron GT is an all-electric flagship sedan in India which apart from its aggressive looks, is also known for its performance. It caters to those who enjoy driving while still needing space for four passengers. It offers a WLTP-claimed range of up to 500km."""
+Audi Q8 Sportback e-tron,Rs.1.19 - 1.32 Cr* (View On Road Price),N/A,N/A ,Audi,N/A
+Audi S5 Sportback,Rs.73.57 - 80.50 Lakh* (View On Road Price),N/A,2994 cc,Audi,N/A
+Bajaj Qute,Rs.3.61 Lakh* (View On Road Price),N/A,216 cc,Bajaj,N/A
+Bentley Flying Spur,Rs.5.25 - 7.60 Cr* (View On Road Price),N/A,5950 cc,Bentley,N/A
+Bentley Continental,Rs.5.23 - 8.45 Cr* (View On Road Price),N/A,5993 cc,Bentley,N/A
+Bentley Bentayga,Rs.5 - 6.75 Cr* (View On Road Price),N/A,3993 cc,Bentley,N/A
+BMW M5,Rs.2.01 Cr* (View On Road Price),Petrol,4395 cc,bmw-cars,N/A
+BMW X5,Rs.93.70 Lakh - 1.05 Cr* (View On Road Price),Diesel/Petrol,2998 cc,bmw-cars,N/A
+BMW X7,Rs.1.25 - 1.29 Cr* (View On Road Price),Diesel/Petrol,2998 cc,bmw-cars,"""The BMW X7 is the German carmaker's flagship luxury SUV, available in both 6- and 7-seater layouts. It boasts a tech-loaded cabin, powerful 3-litre petrol and diesel engine options that are perfectly matched for a big SUV like this, along with BMW's signature handling."""
+BMW X1,Rs.50.60 - 52.20 Lakh* (View On Road Price),Diesel/Petrol,1995 cc,bmw-cars,N/A
+BMW X3,Rs.71.20 - 73.10 Lakh* (View On Road Price),Diesel/Petrol,1998 cc,bmw-cars,N/A
+BMW M2,Rs.1 Cr* (View On Road Price),Petrol,2993 cc,bmw-cars,N/A
+BMW 5 Series,Rs.72.35 Lakh* (View On Road Price),Petrol,1998 cc,bmw-cars,N/A
+BMW Z4,Rs.87.90 - 92.60 Lakh* (View On Road Price),Petrol,2998 cc,bmw-cars,N/A
+BMW 3 Series,Rs.72.85 - 73.95 Lakh* (View On Road Price),Petrol,2998 cc,bmw-cars,N/A
+BMW M4 Competition,Rs.1.52 Cr* (View On Road Price),Petrol,2993 cc,bmw-cars,N/A
+BMW M8 Coupe Competition,Rs.2.38 Cr* (View On Road Price),Petrol,4395 cc,bmw-cars,N/A
+BMW 7 Series,Rs.1.79 - 1.82 Cr* (View On Road Price),Diesel/Petrol,2998 cc,bmw-cars,N/A
+BMW iX1,Rs.49.90 Lakh* (View On Road Price),Electric,N/A ,bmw-cars,N/A
+BMW i7,Rs.2.05 - 2.58 Cr* (View On Road Price),Electric,N/A ,bmw-cars,N/A
+BMW XM,Rs.2.55 Cr* (View On Road Price),Petrol,4395 cc,bmw-cars,N/A
+BMW 2 Series Gran Coupe,Rs.45.30 - 47.20 Lakh* (View On Road Price),Petrol,1499 cc,bmw-cars,N/A
+BMW iX,Rs.1.40 Cr* (View On Road Price),Electric,N/A ,bmw-cars,N/A
+BMW M4 CS,Rs.1.79 Cr* (View On Road Price),Petrol,2993 cc,bmw-cars,N/A
+BMW 3 Series Long Wheelbase,Rs.60.50 - 61.80 Lakh* (View On Road Price),Diesel/Petrol,1998 cc,bmw-cars,N/A
+BMW i4,Rs.72.50 - 77.50 Lakh* (View On Road Price),Electric,N/A ,bmw-cars,N/A
+BMW i5,Rs.1.20 Cr* (View On Road Price),Electric,N/A ,bmw-cars,N/A
+BYD Atto 3,Rs.24.99 - 33.99 Lakh* (View On Road Price),N/A,N/A ,BYD,N/A
+BYD Sealion 7,Rs.48.90 - 54.90 Lakh* (View On Road Price),N/A,N/A ,BYD,"""The BYD Sealion 7 is an all-electric SUV coupe. Based on the Seal sedan, the SUV is offered with a 82.56kWh battery pack. Offered in rear- or all-wheel drive versions, the Sealion 7 has a claimed range of up to 567km."""
+BYD Seal,Rs.41 - 53.15 Lakh* (View On Road Price),N/A,N/A ,BYD,N/A
+BYD eMAX 7,Rs.26.90 - 29.90 Lakh* (View On Road Price),N/A,N/A ,BYD,"""The BYD eMAX 7 is the facelifted version of the e6 MPV which has been BYD’s first EV offering in India. It is available in both 6- and 7-seater layouts, catering to the varied customer needs. An option between two battery packs having a claimed range of more than 500 km, and a potent electric motor makes it a choice for both energy savers and electric enthusiasts."""
+Ferrari 296 GTB,Rs.5.40 Cr* (View On Road Price),N/A,2992 cc,Ferrari,N/A
+Ferrari F8 Tributo,Rs.4.02 Cr* (View On Road Price),N/A,3902 cc,Ferrari,N/A
+Ferrari SF90 Stradale,Rs.7.50 Cr* (View On Road Price),N/A,3990 cc,Ferrari,N/A
+Ferrari Roma,Rs.3.76 Cr* (View On Road Price),N/A,3855 cc,Ferrari,N/A
+Ferrari 812,Rs.5.75 Cr* (View On Road Price),N/A,6496 cc,Ferrari,N/A
+Force Urbania,Rs.26.34 - 31.83 Lakh* (View On Road Price),N/A,2596 cc,Force,N/A
+Force Gurkha,Rs.15.95 Lakh* (View On Road Price),N/A,2596 cc,Force,N/A
+Force Gurkha 5 Door,Rs.17.27 Lakh* (View On Road Price),N/A,2596 cc,Force,N/A
+Isuzu D-Max,Rs.11.20 - 11.98 Lakh* (View On Road Price),N/A,2499 cc,Isuzu,N/A
+Isuzu MU-X,Rs.34.53 - 37.71 Lakh* (View On Road Price),N/A,1898 cc,Isuzu,N/A
+Isuzu S-CAB,Rs.13.37 Lakh* (View On Road Price),N/A,2499 cc,Isuzu,N/A
+Isuzu S-CAB Z,Rs.15.39 Lakh* (View On Road Price),Manual,2499 cc,Isuzu,N/A
+Isuzu V-Cross,Rs.24.27 - 29.37 Lakh* (View On Road Price),N/A,1898 cc,Isuzu,N/A
+Isuzu Hi-Lander,Rs.20.35 Lakh* (View On Road Price),N/A,1898 cc,Isuzu,"""The Isuzu Hi-Lander is a 5-seater pickup truck known for its rugged attributes and high stance. While its features set is basic, it does offer a spacious cabin. The turbo-diesel engine delivers acceptable power and torque figures, but the lack of an automatic gearbox and 4WD system is a notable drawback."""
+Jaguar F-Pace,Rs.72.90 Lakh* (View On Road Price),Diesel/Petrol,1997 cc,Jaguar,"""The Jaguar F-Pace is currently the only model on sale in the carmaker’s India lineup. Like all luxury SUVs, the F-Pace offers a premium cabin experience, but what sets it apart is its performance and handling. It’s better suited for those who enjoy being behind the wheel rather than in the rear seats."""
+Lamborghini Urus,Rs.4.18 - 4.57 Cr* (View On Road Price),N/A,3999 cc,Lamborghini,N/A
+Lamborghini Temerario,Rs.6 Cr* (View On Road Price),N/A,3995 cc,Lamborghini,"""The Lamborghini Temarario is the new entry-level supercar from the Italian carmaker, which is the successor to the iconic Huracan. In typical Lambo fashion, the exterior is dominated by plenty of sharp cuts and creases, giving it a proper racy look. The cabin is minimalistic yet modern, dominated by three screens. Plenty of customisation options means you can spec it up to your taste. Highlight features include a three-screen setup, ventilated and heated front seats as well as a full suite of ADAS features. Propelling this supercar is a 4.4-litre twin-turbo V8 engine paired with a plug-in hybrid tech to develop a whopping 920 PS and 800 Nm. 0 to 100 kmph comes up in just 2.7 seconds."""
+Lamborghini Revuelto,Rs.8.89 Cr* (View On Road Price),N/A,6498 cc,Lamborghini,N/A
+Lamborghini Huracan EVO,Rs.4 - 4.99 Cr* (View On Road Price),N/A,5204 cc,Lamborghini,N/A
+Defender,Rs.98 Lakh - 2.60 Cr* (View On Road Price),Diesel/Petrol,5000 cc,Land_Rover,"""The Defender, with its long-held iconic history, is an off-road SUV available in three body sizes: Defender 90, Defender 110, and Defender 130. The Defender not only comes with AWD (all-wheel drive) capabilities, but also features a range of off-road electronics for enhanced capabilities. Depending on the variant selected, the Defender is offered with a variety of engine options, all paired with an 8-speed automatic transmission."""
+Range Rover,Rs.2.31 - 4.25 Cr* (View On Road Price),Diesel/Petrol,4395 cc,Land_Rover,"""The Range Rover is a luxury 5-seater SUV that offers unmatched off-road capability and opulent comfort. Currently in its fifth-gen avatar, it comes in a long wheelbase option and two powerful 3-litre engine options, catering to diverse customer bases. The Range Rover has a 4WD setup and air suspension that make sure you never stop even where the roads end."""
+Range Rover Velar,Rs.83.90 Lakh* (View On Road Price),Diesel/Petrol,1997 cc,Land_Rover,"""The Range Rover Velar is the most affordable model in the Range Rover lineup. It’s a stunning SUV, packed with features, and is available in just one variant, though you get the choice of both petrol and diesel engines. However, it does come with a hefty price tag. This 5-seater also has an all-wheel-drive (AWD) system, making it a capable off-roader."""
+Range Rover Sport,Rs.1.38 - 2.75 Cr* (View On Road Price),Diesel/Petrol,4395 cc,Land_Rover,"""The Range Rover Sport is a performance-focused SUV from the British brand, offering two powerful engine options: a 3-litre diesel and a 3-litre petrol engine, both supported by mild-hybrid technology for enhanced efficiency. It is packed with advanced tech inside, as is expected at this price point."""
+Range Rover Evoque,Rs.64.86 Lakh* (View On Road Price),Diesel/Petrol,1997 cc,Land_Rover,N/A
+Land Rover Discovery,Rs.1.25 - 1.37 Cr* (View On Road Price),Diesel,2997 cc,Land_Rover,N/A
+Land Rover Discovery Sport,Rs.63.37 Lakh* (View On Road Price),Diesel/Petrol,1999 cc,Land_Rover,N/A
+Lexus LM,Rs.2.15 - 2.69 Cr* (View On Road Price),N/A,2487 cc,Lexus,N/A
+Lexus ES,Rs.62.65 - 68.23 Lakh* (View On Road Price),N/A,2487 cc,Lexus,N/A
+Lexus NX,Rs.66.59 - 73.40 Lakh* (View On Road Price),N/A,2487 cc,Lexus,N/A
+Lexus LX,Rs.2.80 - 2.91 Cr* (View On Road Price),N/A,3346 cc,Lexus,N/A
+Lexus RX,Rs.96.13 Lakh - 1.18 Cr* (View On Road Price),N/A,2487 cc,Lexus,N/A
+Lotus Eletre,Rs.2.55 - 2.99 Cr* (View On Road Price),Automatic,N/A ,Lotus,N/A
+Lotus Emeya,Rs.2.34 Cr* (View On Road Price),Automatic,N/A ,Lotus,"""The Lotus Emeya is an all-electric roadster which not only looks sporty and aggressive, but features powerful electric motor options (up to 918 PS and 675 Nm), offering a claimed range of up to 610 km (with less powerful variants). It has a coupe body style which makes it a headturner."""
+Lotus Emira,Rs.3.22 Cr* (View On Road Price),Manual/Automatic,1998 cc,Lotus,The Lotus Emira is the British marque’s last internal combustion engine (ICE) sportscar in India that comes with two super-potent engine options inclusive of a supercharged V6 mill. It also comes with essential features inside and a decently-equipped safety suite. It can do a 0-100 kmph sprint in 4 seconds.
+Maserati Levante,Rs.1.49 - 1.64 Cr* (View On Road Price),Diesel/Petrol,2987 cc,Maserati,N/A
+Maserati GranTurismo,Rs.2.25 - 2.51 Cr* (View On Road Price),Diesel/Petrol,4691 cc,Maserati,N/A
+Maserati Quattroporte,Rs.1.71 - 1.86 Cr* (View On Road Price),Diesel/Petrol,2999 cc,Maserati,N/A
+Maserati GranCabrio,Rs.2.46 - 2.69 Cr* (View On Road Price),Diesel/Petrol,4691 cc,Maserati,N/A
+Maserati Grecale,Rs.1.31 - 2.05 Cr* (View On Road Price),Petrol,3000 cc,Maserati,N/A
+Mclaren GT,Rs.4.50 Cr* (View On Road Price),N/A,3994 cc,Mclaren,N/A
+Mclaren 750S,Rs.5.91 Cr* (View On Road Price),N/A,3994 cc,Mclaren,N/A
+Mercedes-Benz GLS,Rs.1.32 - 1.42 Cr* (View On Road Price),Diesel/Petrol,2999 cc,Mercedes-Benz,N/A
+Mercedes-Benz C-Class,Rs.58.65 - 64.30 Lakh* (View On Road Price),Diesel/Petrol,1999 cc,Mercedes-Benz,N/A
+Mercedes-Benz S-Class,Rs.1.78 - 1.88 Cr* (View On Road Price),Diesel/Petrol,2999 cc,Mercedes-Benz,N/A
+Mercedes-Benz GLE,Rs.96.15 Lakh - 1.12 Cr* (View On Road Price),Diesel/Petrol,2999 cc,Mercedes-Benz,N/A
+Mercedes-Benz Maybach GLS,Rs.3.17 - 3.71 Cr* (View On Road Price),Petrol,3982 cc,Mercedes-Benz,N/A
+Mercedes-Benz AMG CLE 53,Rs.1.28 Cr* (View On Road Price),Petrol,2999 cc,Mercedes-Benz,N/A
+Mercedes-Benz E-Class,Rs.78.50 - 91.65 Lakh* (View On Road Price),Diesel/Petrol,2999 cc,Mercedes-Benz,"""The Mercedes-Benz E-Class is a luxury sedan from the German manufacturer which is offered as a long-wheelbase (LWB) model in India. It is feature-packed to its brim, comfortable to its core and is offered with three potent engine options, making it a choiceable buy for both front and rear-seat passengers."""
+Mercedes-Benz GLC,Rs.73.95 Lakh* (View On Road Price),Diesel/Petrol,1999 cc,Mercedes-Benz,N/A
+Mercedes-Benz G-Class Electric,Rs.3.10 Cr* (View On Road Price),Electric,N/A ,Mercedes-Benz,"""The Mercedes-Benz G-Class Electric is an all-electric G-Wagon that retains its iconic SUV characteristics, even as an EV, including its design and off-road capabilities. The all-electric G-Wagon features a quad-motor setup (one motor for each wheel), delivering a combined output of 587 PS and 1164 Nm of torque. It also offers a WLTP-claimed range of 455 km."""
+Mercedes-Benz EQS SUV,Rs.1.33 - 1.48 Cr* (View On Road Price),Electric,N/A ,Mercedes-Benz,"""The Mercedes-Benz EQS SUV is the flagship electric SUV from the German carmaker in India. Space is ample in the cabin and it comes with both 5- and 7-seater layouts, catering to varied family needs. It is feature-loaded to the brim with amenities including a tri-screen setup on the dashboard, two screens for the rear passengers and fully adjustable, ventilated and heated front seats. It comes with a huge 122 kWh battery pack with a claimed range of over 800 km. It gets two electric motors on either axle which makes it capable for roads and no roads alike."""
+Mercedes-Benz EQB,Rs.72.20 - 78.90 Lakh* (View On Road Price),Electric,N/A ,Mercedes-Benz,"""The Mercedes-Benz EQB is a premium electric SUV that the German marque offers in both 5- and 7-seating layouts. Like other Mercedes-Benz offerings, the EQB has a modern and feature-laden interior. It has two variants on offer, both with a different battery pack, the bigger one boasting a claimed range of more than 500 km. It is offered in both RWD and AWD setups."""
+Mercedes-Benz EQS,Rs.1.30 - 1.63 Cr* (View On Road Price),Electric,N/A ,Mercedes-Benz,N/A
+Mercedes-Benz AMG SL,Rs.2.34 Cr* (View On Road Price),Petrol,3982 cc,Mercedes-Benz,N/A
+Mercedes-Benz AMG GLC 43,Rs.99.35 Lakh* (View On Road Price),Petrol,1991 cc,Mercedes-Benz,N/A
+Mercedes-Benz Maybach SL 680,Rs.4.12 Cr* (View On Road Price),Petrol,3982 cc,Mercedes-Benz,N/A
+Mercedes-Benz G-Class,Rs.2.55 - 4.30 Cr* (View On Road Price),Diesel/Petrol,3982 cc,Mercedes-Benz,N/A
+Mercedes-Benz EQE SUV,Rs.1.41 Cr* (View On Road Price),Electric,N/A ,Mercedes-Benz,N/A
+Mercedes-Benz AMG C43,Rs.94.05 Lakh* (View On Road Price),Petrol,1991 cc,Mercedes-Benz,N/A
+Mercedes-Benz Maybach EQS SUV,Rs.2.28 - 2.63 Cr* (View On Road Price),Electric,N/A ,Mercedes-Benz,N/A
+Mercedes-Benz AMG A 45 S,Rs.94.80 Lakh* (View On Road Price),Petrol,1991 cc,Mercedes-Benz,N/A
+Mercedes-Benz Maybach S-Class,Rs.2.74 - 3.47 Cr* (View On Road Price),Petrol,5980 cc,Mercedes-Benz,N/A
+Mercedes-Benz AMG C 63,Rs.1.91 Cr* (View On Road Price),Petrol,1991 cc,Mercedes-Benz,N/A
+Mercedes-Benz EQA,Rs.67.20 Lakh* (View On Road Price),Electric,N/A ,Mercedes-Benz,N/A
+Mercedes-Benz CLE Cabriolet,Rs.1.11 Cr* (View On Road Price),Petrol,1999 cc,Mercedes-Benz,N/A
+Mercedes-Benz GLA,Rs.49.70 - 52.70 Lakh* (View On Road Price),Diesel/Petrol,1950 cc,Mercedes-Benz,N/A
+Mercedes-Benz A-Class Limousine,Rs.44.45 - 45.95 Lakh* (View On Road Price),Diesel/Petrol,1950 cc,Mercedes-Benz,N/A
+Mercedes-Benz AMG GLE 53,Rs.1.88 Cr* (View On Road Price),Petrol,2999 cc,Mercedes-Benz,N/A
+Mercedes-Benz AMG E 53 Cabriolet,Rs.1.30 Cr* (View On Road Price),Petrol,2998 cc,Mercedes-Benz,N/A
+Mercedes-Benz AMG EQS,Rs.2.45 Cr* (View On Road Price),Electric,N/A ,Mercedes-Benz,N/A
+Mercedes-Benz AMG GLA 35,Rs.58.50 Lakh* (View On Road Price),Petrol,1991 cc,Mercedes-Benz,N/A
+Mercedes-Benz AMG GT 4 Door Coupe,Rs.3.27 Cr* (View On Road Price),Petrol,3982 cc,Mercedes-Benz,N/A
+Mercedes-Benz AMG GT Coupe,Rs.2.88 - 3.45 Cr* (View On Road Price),Petrol,3982 cc,Mercedes-Benz,"""The Mercedes-AMG GT Coupe packs in stunning looks, a properly luxurious interior and plenty of performance from its mighty V8 engine. It’s also more practical than before, courtesy of its 2+2 seating layout."""
+Mercedes-Benz AMG S 63,Rs.3.27 - 3.80 Cr* (View On Road Price),Petrol,3982 cc,Mercedes-Benz,N/A
+Mini Countryman,Rs.64.90 Lakh* (View On Road Price),N/A,1998 cc,Mini,N/A
+Mini Cooper S,Rs.43.70 - 54.40 Lakh* (View On Road Price),N/A,1998 cc,Mini,N/A
+Mini Cooper 3 DOOR,Rs.42.70 Lakh* (View On Road Price),N/A,1998 cc,Mini,N/A
+Mini Cooper SE,Rs.53.50 Lakh* (View On Road Price),N/A,N/A ,Mini,N/A
+Mini Countryman Electric,Rs.54.90 Lakh* (View On Road Price),N/A,N/A ,Mini,"""The Mini Cooper Countryman Electric SUV features an evolutionary design with unique EV-specific cues and offers a minimalist cabin packed with features. It houses a 66.4 kWh battery pack, delivering a WLTP-claimed range of up to 462 km. The electric motor generates an impressive 204 PS and can accelerate from 0 to 100 kmph in just 8.6 seconds."""
+PMV EaS E,Rs.4.79 Lakh* (View On Road Price),N/A,N/A ,PMV,N/A
+Porsche 911,Rs.2 - 3.77 Cr* (View On Road Price),N/A,3996 cc,porsche-cars,N/A
+Porsche Cayenne,Rs.1.39 - 1.94 Cr* (View On Road Price),N/A,2894 cc,porsche-cars,N/A
+Porsche Macan,Rs.89.65 Lakh* (View On Road Price),N/A,1984 cc,porsche-cars,N/A
+Porsche Taycan,Rs.1.70 - 2.69 Cr* (View On Road Price),N/A,N/A ,porsche-cars,N/A
+Porsche Panamera,Rs.1.71 - 2.33 Cr* (View On Road Price),N/A,3996 cc,porsche-cars,N/A
+Porsche Macan EV,Rs.1.22 - 1.69 Cr* (View On Road Price),N/A,N/A ,porsche-cars,N/A
+Porsche Cayenne Coupe,Rs.1.44 - 1.95 Cr* (View On Road Price),N/A,3996 cc,porsche-cars,N/A
+Pravaig DEFY,Rs.39.50 Lakh* (View On Road Price),N/A,N/A ,Pravaig,N/A
+Rolls-Royce Phantom,Rs.8.99 - 10.48 Cr* (View On Road Price),N/A,6749 cc,Rolls-Royce,N/A
+Rolls-Royce Spectre,Rs.7.50 Cr* (View On Road Price),N/A,N/A ,Rolls-Royce,N/A
+Rolls-Royce Cullinan,Rs.10.50 - 12.25 Cr* (View On Road Price),N/A,6750 cc,Rolls-Royce,N/A
+Rolls-Royce Ghost Series II,Rs.8.95 - 10.52 Cr* (View On Road Price),N/A,6750 cc,Rolls-Royce,N/A
+Strom Motors R3,Rs.4.50 Lakh* (View On Road Price),N/A,N/A ,Strom_Motors,N/A
+Tesla Model Y,Rs.59.89 - 73.89 Lakh* (View On Road Price),N/A,N/A ,Tesla,N/A
+Vayve Mobility Eva,Rs.3.25 - 4.49 Lakh* (View On Road Price),N/A,N/A ,Vayve_Mobility,"""The Vayve Eva is set to become India's first solar-powered small electric car, which will be showcased at the Bharat Mobility Global Expo 2025. The Eva reminisces of small EVs like the Mahindra E2O and Reva and can accommodate up to 2 people. It has a claimed range of 250 km and can offer an additional range of up to 10 km every day thanks to the charge from the solar roof."""
+VinFast VF7,Rs.20.89 - 25.49 Lakh* (View On Road Price),N/A,N/A ,VinFast,"""The VinFast VF 7 is a premium electric SUV which will rival the upcoming BYD Sealion 7 and the Hyundai Ioniq 5 and Kia EV6 in India. It features a single 75.3 kWh battery pack, but in two states of tune, offering a claimed range of up to 450 km."""
+VinFast VF6,Rs.16.49 - 18.29 Lakh* (View On Road Price),N/A,N/A ,VinFast,"""The VinFast VF 6 is a sleek looking premium electric SUV that comes in a 5-seater layout. It boasts a premium cabin along with all modern amenities like 12.9-inch screen, heated and ventilated front seats, and even level 2 ADAS. It uses a 59.6 kWh battery pack offering a WLTP claimed range of up to 410 km."""
+Volvo XC90,Rs.96.97 Lakh* (View On Road Price),N/A,1969 cc,Volvo,N/A
+Volvo EX30,Rs.39.99 Lakh* (View On Road Price),N/A,N/A ,Volvo,N/A
+Volvo XC60,Rs.67.11 Lakh* (View On Road Price),N/A,1969 cc,Volvo,N/A
+Volvo EC40,Rs.59 Lakh* (View On Road Price),N/A,N/A ,Volvo,N/A
+Volvo EX40,Rs.49 Lakh* (View On Road Price),N/A,"N/A
+",Volvo,"""The Volvo EX40 is an all-electric SUV and also the carmaker's most affordable offering in India. It looks stylish, offers top-notch interior quality, and comes loaded with features. Equipped with a 78 kWh battery pack, it offers a claimed range of 418 km and is available in both two-wheel-drive (2WD) and all-wheel-drive (AWD) configurations, catering to a wide customer base."""

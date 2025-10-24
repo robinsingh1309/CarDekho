@@ -4,7 +4,6 @@ import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
 import java.io.FileWriter;
-import java.io.IOException;
 import java.util.logging.Logger;
 
 import org.jsoup.nodes.Document;
@@ -37,7 +36,7 @@ public class CarData {
 
         ) {
 
-            writer.write("Name,Price,Type,CC,Brand");
+            writer.write("Name,Price,Type,CC,Brand,Description");
             writer.newLine();
 
             String line;
@@ -55,12 +54,11 @@ public class CarData {
                 Document brandHtmlDocument = connectToCarDekho.getHtmlDocument(apiUrl);
                 if (brandHtmlDocument == null) {
                     logger.info("No HTML document received from the server...");
-                    return;
+                    continue;
                 }
 
 
-                Elements dataElements =
-                        brandHtmlDocument.select("ul > li.gsc_col-xs-12.gsc_col-sm-6.gsc_col-md-12.gsc_col-lg-12");
+                Elements dataElements = brandHtmlDocument.select("ul > li.gsc_col-xs-12.gsc_col-sm-6.gsc_col-md-12.gsc_col-lg-12");
                 logger.info("dataElements found: " + dataElements.size());
 
 
@@ -68,6 +66,28 @@ public class CarData {
 
                     String vehicleName = cleanText(ele.select("h3").text());
                     String vehiclePrice = cleanText(ele.select(".price").text());
+                    
+                    String vehicleDescription = "";
+                    
+                    // Find vehicle link safely
+                    Element linkElement = ele.selectFirst("div.listView.holder.posS > a");
+                    
+                    if (linkElement != null) 
+                    {                        
+                        String vehicleWebpageUrl = linkElement.attr("href");
+                        logger.info("Vehicle Webpage URL: " + vehicleWebpageUrl);
+    
+                        // Request vehicle webpage
+                        Document vehicleHtmlDocument = connectToCarDekho.getHtmlDocument(vehicleWebpageUrl);
+                        if (vehicleHtmlDocument == null) {
+                            logger.info("No vehicle HTML received for: " + vehicleWebpageUrl);
+                        }
+    
+                        vehicleDescription = extractVehicleDescription(vehicleHtmlDocument, vehicleName);
+                    }else 
+                    {
+                        logger.info("No <a> tag found skipping...");
+                    }
 
                     // Handle missing .dotlist gracefully
                     Elements dotLists = ele.select(".dotlist");
@@ -90,12 +110,13 @@ public class CarData {
                     String cleanedVehiclePrice = escapeCsvField(vehiclePrice);
                     String cleanedVehicleType = escapeCsvField(vehicleType);
                     String cleanedVehicleCC = escapeCsvField(vehicleCC);
+                    String cleanedVehicleDescription = escapeCsvField(vehicleDescription);
 
                     // Write data in one clean CSV line
-                    writer.write(
-                            String.join(",", cleanedVehicleName, cleanedVehiclePrice, cleanedVehicleType,cleanedVehicleCC, escapeCsvField(cleanedVehicelBrand))
-                            );
-                    
+                    writer.write(String.join(",", cleanedVehicleName, cleanedVehiclePrice, cleanedVehicleType,
+                            cleanedVehicleCC, escapeCsvField(cleanedVehicelBrand),
+                            escapeCsvField(cleanedVehicleDescription)));
+
                     writer.newLine();
                 }
 
@@ -109,6 +130,25 @@ public class CarData {
         }
 
         logger.info("Data extracted successfully...");
+    }
+
+    private String extractVehicleDescription(Document vehicleHtmlDocument, String vehicleName) {
+        
+        String[] selectors =
+                {"#rf01 > div.app-content > div > main > div.gs_readmore.model-highlight.thcontent.carSummary.loaded",
+                        "div.model-highlight.thcontent.carSummary", // fallback
+                        "section.model-overview, div.model-overview" // extra fallback
+                };
+
+        for (String selector : selectors) {
+            Elements descriptionElements = vehicleHtmlDocument.select(selector);
+            if (!descriptionElements.isEmpty()) {
+                return cleanText(descriptionElements.first().text());
+            }
+        }
+
+        logger.info("Vehicle description not found for: " + vehicleName);
+        return "N/A";
     }
 
     private String cleanText(String text) {
